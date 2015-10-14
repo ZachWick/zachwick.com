@@ -41,12 +41,11 @@ using and abusing it since it arrived a few days later.
 My Flame came with Firefox OS v1.3 on it. The improvements over
 v1.2 (which I was able to compile and flash onto the ZTE-Open
 myself) were phenomenal. I wasn't missing calls, texts, or emails
-and with the exception of a <a href="http://pump.io">PumpIO</a>
-client, there were apps for everything that I wanted. The Flame
-replaced a Nexus 5 and met the standard of reliablity that the
-Nexus had set. My wife started using the Nexus 5, so now I had to
-be careful about hacking too deep on the Flame because there was
-no going back.
+and with the exception of a PumpIO [7] client, there were apps for
+everything that I wanted. The Flame replaced a Nexus 5 and met the
+standard of reliablity that the Nexus had set. My wife started using
+the Nexus 5, so now I had to be careful about hacking too deep on the
+Flame because there was no going back.
 
 The Software
 ------------
@@ -93,7 +92,7 @@ tumbles off of my workbench without so much as a scratch.
 
 The back of the case is a smooth rubber-ish/matte material that
 seems to attract sawdust, pocket lint, and dust, but it may just
-be that I am often covered in those things myself.<br/>
+be that I am often covered in those things myself.
 The screen is a 4.5in screen (FWVGA 854×480 pixels) and is quite
 useable in direct sunlight. The screen also feels very responsive
 to touch events with is a wonderful improvement over the ZTE-Open
@@ -145,3 +144,4 @@ https://developer.mozilla.org/en-US/Firefox_OS/Developer_phone_guide/ZTE_OPEN
 [4] https://developer.mozilla.org/en-US/Firefox_OS/Using_the_App_Manager
 [5] https://developer.mozilla.org/en-US/Apps/Reference_apps
 [6] https://developer.mozilla.org/en-US/Apps/Quickstart
+[7] http://pump.io

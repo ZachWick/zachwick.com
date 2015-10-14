@@ -18,16 +18,29 @@ un-archive, and run. The latest version of Icecat can be
 downloaded
 from GNU FTP[1] (make sure to get the 32bit or 64bit version,
 whichever is right for your system).
-You should then untar the archive [tar -xzvf path/to/archive] and
-then move the resulting directory to somewhere in your $PATH. On
+
+You should then untar the archive
+
+tar -xzvf path/to/archive
+
+and then move the resulting directory to somewhere in your $PATH. On
 my system, I moved the icecat-17.0.1 directory to /usr/local/bin
-by executing [sudo mv icecat-17.0.1 /usr/local/bin].<br/>
+by executing
+
+sudo mv icecat-17.0.1 /usr/local/bin
+
 You will then need to `cd` to /usr/local/bin and create an
-executable symlink the icecat executable. [sudo ln -s
-icecat-17.0.1 ./icecat].<br/>
-If you now execute [which icecat], the path to this newly created
-symlink should be printed to your terminal. You now have a fully
-installed and useable Icecat on your system.
+executable symlink the icecat executable.
+
+sudo ln -s icecat-17.0.1 ./icecat
+
+If you now execute
+
+which icecat
+
+the path to this newly created symlink should be printed to your
+terminal. You now have a fully installed and useable Icecat on your
+system.
 
 Adding Icecat to the Debian Alternatives System
 -----------------------------------------------
@@ -36,8 +49,10 @@ The Debian Alternatives system allows for user configurable
 Alternatives system, you can easily configure which program your
 system uses as an editor, a mail client, a web browser, etc. In
 order to set Icecat as the browser that all links will open in,
-you must add it to the Alternatives system. By executing <br/><br/>
-sudo update-alternatives --install /usr/bin/icecat x-www-browser /usr/local/bin/icecat 90 <br/><br/>
+you must add it to the Alternatives system. By executing
+
+sudo update-alternatives --install /usr/bin/icecat x-www-browser /usr/local/bin/icecat 90
+
 Icecat will be added the Alternatives system and set to the
 highest priority. Now, all links will open in Icecat.
 

@@ -5,14 +5,14 @@ My dream workplace culture would have following properties, listed
 below in no particular order:
       1. Employees are encouraged to use any system/config/setup that
       they want
-      2. Nobody ever has set work hours</li>
-      3. Nobody ever has any set work place</li>
-      4. Every employee is salaried</li>
+      2. Nobody ever has set work hours
+      3. Nobody ever has any set work place
+      4. Every employee is salaried
       5. Any meeting lasting longer than 15 min must be scheduled at
       least a day in advance
       6. If a meeting follows the pub/sub model, it should be an email
       instead of a meeting
-      7. All development happens in the open</li>
+      7. All development happens in the open
       8. Every employee has 1 day per week to work on anything that
       they want
       9. Each employee must respond to at least one support case per
@@ -41,7 +41,7 @@ probably means that they are encouraged to use whatever email
 client, software, phone, etc. is going to make them better.
 
 The main point is that I want all employees to be enabled to
-constantly evaluate <em>how</em> they are doing their job and try
+constantly evaluate how they are doing their job and try
 to optimize their performance for whatever metric makes sense
 based on their role.
 
@@ -131,7 +131,7 @@ end users' pain points are in the products. Having this
 information readily available makes it easier for employees to
 make executive decisions and make the products more
 user-friendly. It is also always extremely eye-opening to
-see <em>how</em> exactly customers are using what you made. Often
+see how exactly customers are using what you made. Often
 times it seems like customers always find a cool way to abuse the
 product into working in some unintended manner.
 
