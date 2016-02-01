@@ -4,19 +4,28 @@
  <title>zachwick's Development Playground</title>
  <description>Compute free or die; Death is not the worst of evils.</description>
  <link>https://zachwick.com/index.html</link>
- <lastBuildDate>Wed, 24 Mar 2015 08:15:00 -0500 </lastBuildDate>
+ <lastBuildDate>Mon, 02 Feb 2016 14:15:00 -0500 </lastBuildDate>
  <pubDate>Fri, 07 Feb 2014 00:00:00 -0500 </pubDate>
  <ttl>1800</ttl>
 
+  <item>
+   <title>Customer Development and Parenthood</title>
+   <description>Customer development and parenthood are two sides of
+   the same coin.</description>
+   <link>https://zachwick.com/posts/customer_development_and_parenthood.txt</link>
+   <guid>27</guid>
+   <pubDate>02 Feb 2016 00:00:00 -0500 </pubDate>
+  </item>
+  
   <item>
    <title>Death of The Hacker</title>
    <description>Reflections on the death of a friend</description>
    <link>https://zachwick.com/posts/death_of_the_hacker.txt</link>
    <guid>26</guid>
    <pubDate>24 Mar 2015 00:00:00 -0500 </pubDate>
- </item>
+  </item>
+  
   <item>
-
 	<title>Using Colemak on the FirefoxOS Flame</title>
    <description>How to get the Colemak keyboard layout on a FirefoxOS device</description>
    <link>https://zachwick.com/posts/using_Colemak_on_the_firefox_os_flame.txt</link>

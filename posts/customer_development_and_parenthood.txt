@@ -1,0 +1,52 @@
+Customer Development and Parenthhood
+2016-02-01
+
+Kids fall down a lot; like all of the time. I don't even think that I
+possess the ability to count how many times my daughter falls every
+day. At any given time, she is either actively falling, on the ground
+still from the previous fall, or standing up from the previous fall.
+
+Since she falls so much (she has only been walking for three months or
+so), I am constantly moving things out of her way so that she doesn't
+trip, or moving things so that she doesn't fall into them. I think
+that every parent does this; Walking to the next room just behind the
+baby and giving the room a quick once over to make sure that nothing
+is within arms reach that she will find enticing; Jumping up to try in
+vain to catch her as she stumbles over her own pacifier so she doesn't
+whang her head for the second time in as many hours; It just becomes a
+habit to try and anticipate what is going to draw the baby's attention
+in an unwanted direction to the detriment of her stability.
+
+While consoling my daughter the other night from another countless
+wipe out, I realized that this is exactly what customer development is
+all about - observing your like a hawk, looking critically at your
+product, and removing the stuff that is going to distact and/or hamper
+your user.
+
+Redesigning UI's to ones that don't trip up the user is no different
+than re-arranging your living room so that the hard armchair arms
+aren't right next to the walkway at infant head height. And just like
+an infant will stumble over everything in their path - toys, pillows,
+their own feet, the carpet pile - your users will stumble on every UI
+element that they haven't navigated a thousand times before. You want
+an underbar that comes in from the right side of the screen? Good luck
+with a user using that without stumbling. You want users to click on
+the robot icon to do your app's magic artificial intelligence thing?
+Unless that robot icon is also your app's logo, that cool little robot
+is just some confusing button.
+
+Parenting and customer development are the exact same process
+(although I've only been a parent for just over a year, so maybe I am
+way off base). The whole idea is to have an idea of where you want
+your user/customer/child to end up, closely and critically observe
+them, and build the tools to get them to realize your vision.  I want
+my daughter to experience the whole world and not get too banged up,
+so I make sure that the sharp corners are at least somewhat padded,
+and the stairs are blocked. I want my users to be able to scrape every
+fraction of a penny of profit out of their food businesses, so at
+Bareo [0] we strive to make sure that we are always guiding users to
+more and more efficient ingredient sourcing and usage behaviors. This
+means a constantly evolving UI, a constantly evolving analytics suite,
+and lots and lots of observation and feedback. The process is the
+same, and since practice makes perfect, I am hoping for perfect
+outcomes to both my parenting and customer development.
