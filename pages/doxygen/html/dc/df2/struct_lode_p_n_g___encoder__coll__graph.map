@@ -1,7 +1,0 @@
-<map id="LodePNG_Encoder" name="LodePNG_Encoder">
-<area shape="rect" id="node2" href="$d7/d1e/struct_lode_p_n_g___info_png.html" title="LodePNG_InfoPng" alt="" coords="5,95,136,121"/>
-<area shape="rect" id="node3" href="$d5/d0f/struct_lode_p_n_g___info_color.html" title="LodePNG_InfoColor" alt="" coords="81,5,220,32"/>
-<area shape="rect" id="node6" href="$d3/d36/struct_lode_p_n_g___info_raw.html" title="LodePNG_InfoRaw" alt="" coords="161,95,295,121"/>
-<area shape="rect" id="node4" href="$da/da3/struct_lode_p_n_g___encode_settings.html" title="LodePNG_EncodeSettings" alt="" coords="320,95,499,121"/>
-<area shape="rect" id="node5" href="$dc/dc3/struct_lode_zlib___deflate_settings.html" title="LodeZlib_DeflateSettings" alt="" coords="325,5,493,32"/>
-</map>

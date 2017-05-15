@@ -1,4 +1,0 @@
-<map id="TemplateNodeIf::GuardedNodes" name="TemplateNodeIf::GuardedNodes">
-<area shape="rect" id="node2" href="$df/daf/class_template_node_list.html" title="Class representing a list of AST nodes in a template. " alt="" coords="23,81,151,108"/>
-<area shape="rect" id="node4" href="$dc/dfa/class_expr_ast.html" title="Base class for all nodes in the abstract syntax tree of an expression. " alt="" coords="175,81,244,108"/>
-</map>

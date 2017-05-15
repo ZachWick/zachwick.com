@@ -1,9 +1,0 @@
-<map id="SymbolGroupContext::Private::Cachable" name="SymbolGroupContext::Private::Cachable">
-<area shape="rect" id="node2" href="$df/d12/class_shared_ptr.html" title="SharedPtr\&lt; SymbolListContext \&gt;" alt="" coords="222,351,437,377"/>
-<area shape="rect" id="node3" href="$dd/d7d/class_symbol_list_context.html" title="SymbolListContext" alt="" coords="133,261,267,288"/>
-<area shape="rect" id="node4" href="$d8/d96/class_ref_counted_context.html" title="Helper class to support reference counting. " alt="" coords="5,165,144,191"/>
-<area shape="rect" id="node5" href="$d6/d88/class_template_list_intf.html" title="Abstract read&#45;only interface for a context value of type list. " alt="" coords="161,5,277,32"/>
-<area shape="rect" id="node7" href="$d6/dcb/class_generic_node_list_context.html" title="standard template list implementation " alt="" coords="219,81,384,108"/>
-<area shape="rect" id="node6" href="$da/d36/class_symbol_list_context_1_1_private.html" title="SymbolListContext::\lPrivate" alt="" coords="219,157,360,199"/>
-<area shape="rect" id="node8" href="$df/d12/class_shared_ptr.html" title="Reference counting smart pointer. " alt="" coords="337,261,449,288"/>
-</map>

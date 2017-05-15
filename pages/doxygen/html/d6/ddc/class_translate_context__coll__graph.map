@@ -1,7 +1,0 @@
-<map id="TranslateContext" name="TranslateContext">
-<area shape="rect" id="node2" href="$d8/d96/class_ref_counted_context.html" title="Helper class to support reference counting. " alt="" coords="5,213,144,240"/>
-<area shape="rect" id="node3" href="$d9/de8/class_template_struct_intf.html" title="Abstract interface for a context value of type struct. " alt="" coords="168,213,299,240"/>
-<area shape="rect" id="node4" href="$dc/dc5/class_translate_context_1_1_private.html" title="TranslateContext::Private" alt="" coords="323,213,493,240"/>
-<area shape="rect" id="node5" href="$d1/d80/class_property_mapper.html" title="PropertyMapper\&lt; Translate\lContext::Private \&gt;" alt="" coords="318,109,498,151"/>
-<area shape="rect" id="node6" href="$d1/d80/class_property_mapper.html" title="Helper class to map a property name to a handler member function. " alt="" coords="335,5,481,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="IndexIntf" name="IndexIntf">
-<area shape="rect" id="node2" href="$db/d32/class_doc_sets.html" title="A class that generates docset files. " alt="" coords="5,80,79,107"/>
-<area shape="rect" id="node3" href="$db/dd3/class_eclipse_help.html" title="Generator for Eclipse help files. " alt="" coords="103,80,195,107"/>
-<area shape="rect" id="node4" href="$d6/d14/class_f_t_v_help.html" title="A class that generates a dynamic tree view side panel. " alt="" coords="219,80,294,107"/>
-<area shape="rect" id="node5" href="$d4/db3/class_html_help.html" title="A class that generated the HTML Help specific files. " alt="" coords="318,80,395,107"/>
-<area shape="rect" id="node6" href="$d9/d57/class_index_list.html" title="A list of index interfaces. " alt="" coords="419,80,494,107"/>
-<area shape="rect" id="node7" href="$de/d4f/class_qhp.html" title="Qhp" alt="" coords="519,80,565,107"/>
-</map>

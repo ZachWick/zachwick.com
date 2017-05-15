@@ -1,8 +1,0 @@
-<map id="SearchIndexInfo" name="SearchIndexInfo">
-<area shape="rect" id="node2" href="$d7/d17/class_letter_to_index_map.html" title="LetterToIndexMap\&lt; Search\lIndexList \&gt;" alt="" coords="510,184,690,225"/>
-<area shape="rect" id="node3" href="$d0/d9f/class_s_int_dict.html" title="SIntDict\&lt; SearchIndexList \&gt;" alt="" coords="354,95,542,121"/>
-<area shape="rect" id="node4" href="$d8/d9a/class_s_int_list.html" title="SIntList\&lt; SearchIndexList \&gt;" alt="" coords="197,191,382,218"/>
-<area shape="rect" id="node6" href="$d8/d9a/class_s_int_list.html" title="internal wrapper class that redirects compareValues() to the dictionary " alt="" coords="200,95,299,121"/>
-<area shape="rect" id="node8" href="$d0/d9f/class_s_int_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="481,5,583,32"/>
-<area shape="rect" id="node9" href="$d7/d17/class_letter_to_index_map.html" title="maps a unicode character code to a list of T::ElementType&#39;s " alt="" coords="566,95,725,121"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="SearchIndexContext::Private::Cachable" name="SearchIndexContext::Private::Cachable">
-<area shape="rect" id="node2" href="$df/d12/class_shared_ptr.html" title="SharedPtr\&lt; SymbolIndices\lContext \&gt;" alt="" coords="251,351,429,392"/>
-<area shape="rect" id="node3" href="$d8/d39/class_symbol_indices_context.html" title="SymbolIndicesContext" alt="" coords="125,261,280,288"/>
-<area shape="rect" id="node4" href="$d8/d96/class_ref_counted_context.html" title="Helper class to support reference counting. " alt="" coords="5,165,144,191"/>
-<area shape="rect" id="node5" href="$d6/d88/class_template_list_intf.html" title="Abstract read&#45;only interface for a context value of type list. " alt="" coords="161,5,277,32"/>
-<area shape="rect" id="node7" href="$d6/dcb/class_generic_node_list_context.html" title="standard template list implementation " alt="" coords="219,81,384,108"/>
-<area shape="rect" id="node6" href="$d6/d8b/class_symbol_indices_context_1_1_private.html" title="SymbolIndicesContext\l::Private" alt="" coords="219,157,373,199"/>
-<area shape="rect" id="node8" href="$df/d12/class_shared_ptr.html" title="Reference counting smart pointer. " alt="" coords="349,261,461,288"/>
-</map>

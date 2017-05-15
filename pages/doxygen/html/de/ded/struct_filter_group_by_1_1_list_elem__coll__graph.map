@@ -1,6 +1,0 @@
-<map id="FilterGroupBy::ListElem" name="FilterGroupBy::ListElem">
-<area shape="rect" id="node2" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types. " alt="" coords="125,95,242,121"/>
-<area shape="rect" id="node5" href="$d7/d1d/class_template_variant_1_1_delegate.html" title="Helper class to create a delegate that can store a function/method call. " alt="" coords="191,184,368,211"/>
-<area shape="rect" id="node3" href="$d6/d88/class_template_list_intf.html" title="Abstract read&#45;only interface for a context value of type list. " alt="" coords="52,5,168,32"/>
-<area shape="rect" id="node4" href="$d9/de8/class_template_struct_intf.html" title="Abstract interface for a context value of type struct. " alt="" coords="193,5,323,32"/>
-</map>

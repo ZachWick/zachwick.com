@@ -1,6 +1,0 @@
-<map id="GroupSDict" name="GroupSDict">
-<area shape="rect" id="node2" href="$d1/d50/class_s_dict.html" title="SDict\&lt; GroupDef \&gt;" alt="" coords="306,95,441,121"/>
-<area shape="rect" id="node3" href="$df/dce/class_s_list.html" title="SList\&lt; GroupDef \&gt;" alt="" coords="161,184,293,211"/>
-<area shape="rect" id="node5" href="$df/dce/class_s_list.html" title="internal wrapper class that redirects compareValues() to the dictionary " alt="" coords="163,95,247,121"/>
-<area shape="rect" id="node7" href="$d1/d50/class_s_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="330,5,417,32"/>
-</map>

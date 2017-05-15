@@ -1,6 +1,0 @@
-<map id="PerlModDocVisitor" name="PerlModDocVisitor">
-<area shape="rect" id="node2" href="$d0/d78/class_doc_visitor.html" title="Abstract visitor that participates in the visitor pattern. " alt="" coords="5,184,88,211"/>
-<area shape="rect" id="node3" href="$d5/d6c/class_perl_mod_output.html" title="PerlModOutput" alt="" coords="112,184,221,211"/>
-<area shape="rect" id="node4" href="$d4/de6/class_perl_mod_output_stream.html" title="PerlModOutputStream" alt="" coords="91,95,242,121"/>
-<area shape="rect" id="node5" href="$dc/d3c/class_f_text_stream.html" title="Simplified and optimized version of QTextStream. " alt="" coords="117,5,216,32"/>
-</map>
