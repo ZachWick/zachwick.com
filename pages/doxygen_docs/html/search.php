@@ -46,13 +46,15 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <script type="text/javascript" src="menudata.js"></script>
 <script type="text/javascript" src="menu.js"></script>
 <script type="text/javascript">
+/* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&dn=gpl-2.0.txt GPL-v2 */
 $(function() {
   initMenu('',true,true,'search.php','Search');
+/* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&dn=gpl-2.0.txt GPL-v2 */
   $(document).ready(function() {
     if ($('.searchresults').length > 0) { searchBox.DOMSearchField().focus(); }
   });
 });
-</script>
+/* @license-end */</script>
 <div id="main-nav"></div>
 <script language="php">
 require_once "search_functions.php";
@@ -62,7 +64,7 @@ main();
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon May 15 2017 10:11:38 for Doxygen by
+    <li class="footer">Generated on Mon May 15 2017 13:34:15 for Doxygen by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.14 </li>
   </ul>
