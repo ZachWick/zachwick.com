@@ -1,0 +1,13 @@
+<map id="TranslatorArabic" name="TranslatorArabic">
+<area shape="rect" id="node2" href="$d4/d2b/class_translator_adapter__1__4__6.html" title="Adapter class for languages that only contain translations up to version 1.4.6. " alt="" coords="5,779,172,805"/>
+<area shape="rect" id="node3" href="$df/dc7/class_translator_adapter__1__5__4.html" title="Adapter class for languages that only contain translations up to version 1.5.4. " alt="" coords="5,703,172,729"/>
+<area shape="rect" id="node4" href="$d3/da1/class_translator_adapter__1__6__0.html" title="Adapter class for languages that only contain translations up to version 1.6.0. " alt="" coords="5,627,172,653"/>
+<area shape="rect" id="node5" href="$d7/d29/class_translator_adapter__1__6__3.html" title="Adapter class for languages that only contain translations up to version 1.6.3. " alt="" coords="5,551,172,577"/>
+<area shape="rect" id="node6" href="$da/d24/class_translator_adapter__1__7__5.html" title="Adapter class for languages that only contain translations up to version 1.7.5. " alt="" coords="5,475,172,501"/>
+<area shape="rect" id="node7" href="$de/d49/class_translator_adapter__1__8__0.html" title="Adapter class for languages that only contain translations up to version 1.8.0. " alt="" coords="5,399,172,425"/>
+<area shape="rect" id="node8" href="$d2/d75/class_translator_adapter__1__8__2.html" title="TranslatorAdapter_1_8_2" alt="" coords="5,323,172,349"/>
+<area shape="rect" id="node9" href="$de/d2f/class_translator_adapter__1__8__4.html" title="TranslatorAdapter_1_8_4" alt="" coords="5,247,172,273"/>
+<area shape="rect" id="node10" href="$db/d6c/class_translator_adapter_base.html" title="Base of the translator adapter tree. " alt="" coords="11,171,166,197"/>
+<area shape="rect" id="node11" href="$d8/dfb/class_translator.html" title="Abstract base class for all translatable text fragments. " alt="" coords="59,5,139,32"/>
+<area shape="rect" id="node12" href="$d6/d78/class_translator_english.html" title="TranslatorEnglish" alt="" coords="105,81,227,108"/>
+</map>

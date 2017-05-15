@@ -1,0 +1,6 @@
+<map id="GenericsSDict" name="GenericsSDict">
+<area shape="rect" id="node2" href="$d1/d50/class_s_dict.html" title="SDict\&lt; GenericsCollection \&gt;" alt="" coords="373,95,563,121"/>
+<area shape="rect" id="node3" href="$df/dce/class_s_list.html" title="SList\&lt; GenericsCollection \&gt;" alt="" coords="196,184,383,211"/>
+<area shape="rect" id="node5" href="$df/dce/class_s_list.html" title="internal wrapper class that redirects compareValues() to the dictionary " alt="" coords="217,95,301,121"/>
+<area shape="rect" id="node7" href="$d1/d50/class_s_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="425,5,511,32"/>
+</map>

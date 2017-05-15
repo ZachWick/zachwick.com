@@ -1,0 +1,21 @@
+<map id="SearchIndexContext" name="SearchIndexContext">
+<area shape="rect" id="node2" href="$d8/d96/class_ref_counted_context.html" title="Helper class to support reference counting. " alt="" coords="393,5,532,32"/>
+<area shape="rect" id="node9" href="$d8/d39/class_symbol_indices_context.html" title="SymbolIndicesContext" alt="" coords="727,116,882,143"/>
+<area shape="rect" id="node3" href="$d9/de8/class_template_struct_intf.html" title="Abstract interface for a context value of type struct. " alt="" coords="1787,63,1917,89"/>
+<area shape="rect" id="node4" href="$db/d5d/class_search_index_context_1_1_private.html" title="SearchIndexContext\l::Private" alt="" coords="1781,143,1923,185"/>
+<area shape="rect" id="node5" href="$d1/d80/class_property_mapper.html" title="PropertyMapper\&lt; SearchIndex\lContext::Private \&gt;" alt="" coords="1477,217,1676,258"/>
+<area shape="rect" id="node6" href="$d1/d80/class_property_mapper.html" title="Helper class to map a property name to a handler member function. " alt="" coords="1127,225,1274,252"/>
+<area shape="rect" id="node7" href="$d0/dc5/struct_search_index_context_1_1_private_1_1_cachable.html" title="SearchIndexContext\l::Private::Cachable" alt="" coords="1506,97,1647,138"/>
+<area shape="rect" id="node8" href="$df/d12/class_shared_ptr.html" title="SharedPtr\&lt; SymbolIndices\lContext \&gt;" alt="" coords="1111,94,1290,135"/>
+<area shape="rect" id="node10" href="$d6/d88/class_template_list_intf.html" title="Abstract read&#45;only interface for a context value of type list. " alt="" coords="5,137,121,164"/>
+<area shape="rect" id="node12" href="$d6/dcb/class_generic_node_list_context.html" title="standard template list implementation " alt="" coords="171,168,336,195"/>
+<area shape="rect" id="node11" href="$d6/d8b/class_symbol_indices_context_1_1_private.html" title="SymbolIndicesContext\l::Private" alt="" coords="385,167,540,209"/>
+<area shape="rect" id="node13" href="$df/d12/class_shared_ptr.html" title="Reference counting smart pointer. " alt="" coords="749,65,861,92"/>
+<area shape="rect" id="node15" href="$d4/db6/struct_search_index_info.html" title="SearchIndexInfo" alt="" coords="1518,164,1635,191"/>
+<area shape="rect" id="node16" href="$d7/d17/class_letter_to_index_map.html" title="LetterToIndexMap\&lt; Search\lIndexList \&gt;" alt="" coords="1111,159,1291,201"/>
+<area shape="rect" id="node17" href="$d0/d9f/class_s_int_dict.html" title="SIntDict\&lt; SearchIndexList \&gt;" alt="" coords="711,275,899,301"/>
+<area shape="rect" id="node18" href="$d8/d9a/class_s_int_list.html" title="SIntList\&lt; SearchIndexList \&gt;" alt="" coords="1108,304,1293,331"/>
+<area shape="rect" id="node20" href="$d8/d9a/class_s_int_list.html" title="internal wrapper class that redirects compareValues() to the dictionary " alt="" coords="755,372,854,399"/>
+<area shape="rect" id="node22" href="$d0/d9f/class_s_int_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="411,253,514,280"/>
+<area shape="rect" id="node23" href="$d7/d17/class_letter_to_index_map.html" title="maps a unicode character code to a list of T::ElementType&#39;s " alt="" coords="725,167,884,193"/>
+</map>

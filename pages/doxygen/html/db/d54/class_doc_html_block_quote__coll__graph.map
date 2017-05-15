@@ -1,0 +1,6 @@
+<map id="DocHtmlBlockQuote" name="DocHtmlBlockQuote">
+<area shape="rect" id="node2" href="$d7/da3/class_comp_accept.html" title="CompAccept\&lt; DocHtmlBlock\lQuote \&gt;" alt="" coords="5,95,200,136"/>
+<area shape="rect" id="node3" href="$d7/da3/class_comp_accept.html" title="Default accept implementation for compound nodes in the abstract syntax tree. " alt="" coords="37,5,168,32"/>
+<area shape="rect" id="node4" href="$d9/d0e/class_doc_node.html" title="Abstract node interface with type information. " alt="" coords="224,102,301,129"/>
+<area shape="rect" id="node5" href="$db/d4d/class_html_attrib_list.html" title="A list of Html attributes. " alt="" coords="409,102,511,129"/>
+</map>

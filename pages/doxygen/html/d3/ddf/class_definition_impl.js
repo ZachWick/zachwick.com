@@ -1,0 +1,27 @@
+var class_definition_impl =
+[
+    [ "DefinitionImpl", "d3/ddf/class_definition_impl.html#ad20015f809e04f727178f024f66e9c9f", null ],
+    [ "~DefinitionImpl", "d3/ddf/class_definition_impl.html#aa7e7868bd00eb4970333fc6da39aae39", null ],
+    [ "init", "d3/ddf/class_definition_impl.html#a85ef125ece3adbf81088aed11b23a695", null ],
+    [ "body", "d3/ddf/class_definition_impl.html#abf326140fdf738a7b427cb9a1f447e43", null ],
+    [ "brief", "d3/ddf/class_definition_impl.html#abf7d7378fb40c8bc74ca94dce41cb8cd", null ],
+    [ "briefSignatures", "d3/ddf/class_definition_impl.html#abb2e7301fb3f4fb9ca9d49825156a534", null ],
+    [ "defFileExt", "d3/ddf/class_definition_impl.html#aed23b4fc26fa26c448376c619212f2cd", null ],
+    [ "defFileName", "d3/ddf/class_definition_impl.html#a02626039188bf2cd1c5c819ecaecbaa3", null ],
+    [ "details", "d3/ddf/class_definition_impl.html#ab2d8326c89339ab1a656626763053c97", null ],
+    [ "docSignatures", "d3/ddf/class_definition_impl.html#a6c3f06715a0145760eaea8ee4a966abb", null ],
+    [ "hidden", "d3/ddf/class_definition_impl.html#a2d6b6c8d5806528cb153cb67f1269506", null ],
+    [ "id", "d3/ddf/class_definition_impl.html#aab2e82412422fb9453c2dcc9f68de942", null ],
+    [ "inbodyDocs", "d3/ddf/class_definition_impl.html#aa385084930d80331a6502c35ffacbe02", null ],
+    [ "isArtificial", "d3/ddf/class_definition_impl.html#a0c76a16fad3e8893a9f9b4f246de37a5", null ],
+    [ "lang", "d3/ddf/class_definition_impl.html#ac74847e0bf4b0b2e7ed26d37d28fb031", null ],
+    [ "localName", "d3/ddf/class_definition_impl.html#a816cc358ff8b86218b801a95085dd347", null ],
+    [ "outerScope", "d3/ddf/class_definition_impl.html#a26dc7cbdcc13447609bb7426c510196e", null ],
+    [ "partOfGroups", "d3/ddf/class_definition_impl.html#aab2bc75a96ff757092b3e6bc3f5ef9ac", null ],
+    [ "qualifiedName", "d3/ddf/class_definition_impl.html#a06ff1b32fcaa04543ff4a12b4a82e1d7", null ],
+    [ "ref", "d3/ddf/class_definition_impl.html#a6df3b3b100e090a1f4c20e285f3aba36", null ],
+    [ "sectionDict", "d3/ddf/class_definition_impl.html#a34e4463846d5f873f07509ae80e38724", null ],
+    [ "sourceRefByDict", "d3/ddf/class_definition_impl.html#a854eb82c0fc4b42d42892b42ce924e39", null ],
+    [ "sourceRefsDict", "d3/ddf/class_definition_impl.html#af37154064cce9133525a1b3badb4a11d", null ],
+    [ "xrefListItems", "d3/ddf/class_definition_impl.html#a17e3c2a8898eb19fd5c2f044876de607", null ]
+];

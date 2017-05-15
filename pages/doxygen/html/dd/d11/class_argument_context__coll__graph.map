@@ -1,0 +1,45 @@
+<map id="ArgumentContext" name="ArgumentContext">
+<area shape="rect" id="node2" href="$d8/d96/class_ref_counted_context.html" title="Helper class to support reference counting. " alt="" coords="1260,5,1399,32"/>
+<area shape="rect" id="node3" href="$d9/de8/class_template_struct_intf.html" title="Abstract interface for a context value of type struct. " alt="" coords="5,81,136,108"/>
+<area shape="rect" id="node44" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types. " alt="" coords="254,163,371,189"/>
+<area shape="rect" id="node4" href="$d8/d1d/class_argument_context_1_1_private.html" title="ArgumentContext::Private" alt="" coords="1243,180,1416,207"/>
+<area shape="rect" id="node5" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources. " alt="" coords="987,377,1065,404"/>
+<area shape="rect" id="node8" href="$d3/ddf/class_definition_impl.html" title="Private data associated with a Symbol Definition object. " alt="" coords="2117,795,2220,821"/>
+<area shape="rect" id="node17" href="$de/db0/class_file_def.html" title="A model of a file symbol. " alt="" coords="1636,661,1700,688"/>
+<area shape="rect" id="node28" href="$d4/dd4/class_dir_def.html" title="A model of a directory symbol. " alt="" coords="1299,520,1359,547"/>
+<area shape="rect" id="node6" href="$d9/d4a/class_definition_intf.html" title="Abstract interface for a Definition or DefinitionList. " alt="" coords="611,352,707,379"/>
+<area shape="rect" id="node7" href="$d1/d2f/struct_definition_1_1_cookie.html" title="Definition::Cookie" alt="" coords="595,403,722,429"/>
+<area shape="rect" id="node9" href="$de/d9a/class_section_dict.html" title="Unsorted dictionary of SectionInfo objects. " alt="" coords="1463,811,1554,837"/>
+<area shape="rect" id="node10" href="$d1/d50/class_s_dict.html" title="SDict\&lt; SectionInfo \&gt;" alt="" coords="953,809,1099,836"/>
+<area shape="rect" id="node11" href="$df/dce/class_s_list.html" title="SList\&lt; SectionInfo \&gt;" alt="" coords="1258,656,1401,683"/>
+<area shape="rect" id="node13" href="$df/dce/class_s_list.html" title="internal wrapper class that redirects compareValues() to the dictionary " alt="" coords="271,648,355,675"/>
+<area shape="rect" id="node20" href="$df/dce/class_s_list.html" title="SList\&lt; ClassDef \&gt;" alt="" coords="593,708,724,735"/>
+<area shape="rect" id="node22" href="$df/dce/class_s_list.html" title="SList\&lt; Definition \&gt;" alt="" coords="593,553,724,580"/>
+<area shape="rect" id="node35" href="$df/dce/class_s_list.html" title="SList\&lt; MemberDef \&gt;" alt="" coords="587,1031,731,1057"/>
+<area shape="rect" id="node15" href="$d1/d50/class_s_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="615,844,702,871"/>
+<area shape="rect" id="node19" href="$d1/d50/class_s_dict.html" title="SDict\&lt; ClassDef \&gt;" alt="" coords="959,757,1093,784"/>
+<area shape="rect" id="node21" href="$d1/d50/class_s_dict.html" title="SDict\&lt; Definition \&gt;" alt="" coords="959,569,1093,596"/>
+<area shape="rect" id="node32" href="$d1/d50/class_s_dict.html" title="SDict\&lt; NamespaceDef \&gt;" alt="" coords="941,875,1111,901"/>
+<area shape="rect" id="node34" href="$d1/d50/class_s_dict.html" title="SDict\&lt; MemberDef \&gt;" alt="" coords="953,1013,1099,1040"/>
+<area shape="rect" id="node16" href="$db/dab/struct_body_info.html" title="Data associated with description found in the body. " alt="" coords="1899,697,1973,724"/>
+<area shape="rect" id="node18" href="$d9/d3d/class_class_s_dict.html" title="A sorted dictionary of ClassDef objects. " alt="" coords="1285,707,1374,733"/>
+<area shape="rect" id="node24" href="$dc/d1e/class_member_group_s_dict.html" title="A sorted dictionary of MemberGroup objects. " alt="" coords="1261,869,1398,896"/>
+<area shape="rect" id="node25" href="$d0/d9f/class_s_int_dict.html" title="SIntDict\&lt; MemberGroup \&gt;" alt="" coords="938,941,1114,968"/>
+<area shape="rect" id="node26" href="$d8/d9a/class_s_int_list.html" title="SIntList\&lt; MemberGroup \&gt;" alt="" coords="1243,939,1416,965"/>
+<area shape="rect" id="node27" href="$d0/d9f/class_s_int_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="607,980,710,1007"/>
+<area shape="rect" id="node29" href="$dc/d2a/class_dir_list.html" title="A list of directories. " alt="" coords="996,519,1056,545"/>
+<area shape="rect" id="node30" href="$d0/d18/class_file_list.html" title="Class representing a list of FileDef objects. " alt="" coords="994,468,1058,495"/>
+<area shape="rect" id="node31" href="$d4/d8d/class_namespace_s_dict.html" title="A sorted dictionary of NamespaceDef objects. " alt="" coords="1267,759,1392,785"/>
+<area shape="rect" id="node33" href="$d6/dd6/class_member_s_dict.html" title="A sorted dictionary of MemberDef objects. " alt="" coords="1759,915,1861,941"/>
+<area shape="rect" id="node37" href="$d3/d3b/class_group_list.html" title="A list of GroupDef objects. " alt="" coords="1897,889,1975,916"/>
+<area shape="rect" id="node39" href="$d7/dd5/struct_doc_info.html" title="Data associated with a detailed description. " alt="" coords="1902,940,1970,967"/>
+<area shape="rect" id="node40" href="$d0/da7/struct_brief_info.html" title="Data associated with a brief description. " alt="" coords="1901,991,1971,1017"/>
+<area shape="rect" id="node41" href="$d1/dee/struct_argument.html" title="This class contains the information about the argument of a function or template. ..." alt="" coords="987,239,1065,265"/>
+<area shape="rect" id="node42" href="$d0/d0c/struct_argument_context_1_1_private_1_1_cachable.html" title="ArgumentContext::Private\l::Cachable" alt="" coords="939,173,1113,214"/>
+<area shape="rect" id="node43" href="$dd/d9b/class_scoped_ptr.html" title="ScopedPtr\&lt; TemplateVariant \&gt;" alt="" coords="557,163,760,189"/>
+<area shape="rect" id="node46" href="$d7/d1d/class_template_variant_1_1_delegate.html" title="Helper class to create a delegate that can store a function/method call. " alt="" coords="570,233,747,260"/>
+<area shape="rect" id="node45" href="$d6/d88/class_template_list_intf.html" title="Abstract read&#45;only interface for a context value of type list. " alt="" coords="13,163,129,189"/>
+<area shape="rect" id="node47" href="$dd/d9b/class_scoped_ptr.html" title="Scoped smart pointer. " alt="" coords="255,108,370,135"/>
+<area shape="rect" id="node49" href="$d1/d80/class_property_mapper.html" title="PropertyMapper\&lt; Argument\lContext::Private \&gt;" alt="" coords="935,107,1117,149"/>
+<area shape="rect" id="node50" href="$d1/d80/class_property_mapper.html" title="Helper class to map a property name to a handler member function. " alt="" coords="585,112,732,139"/>
+</map>

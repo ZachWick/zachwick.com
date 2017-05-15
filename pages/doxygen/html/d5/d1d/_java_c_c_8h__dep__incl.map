@@ -1,0 +1,15 @@
+<map id="vhdlparser/JavaCC.h" name="vhdlparser/JavaCC.h">
+<area shape="rect" id="node2" href="$df/ddf/_char_stream_8h.html" title="vhdlparser/CharStream.h" alt="" coords="5,155,172,181"/>
+<area shape="rect" id="node3" href="$d5/df9/_vhdl_parser_8h.html" title="vhdlparser/VhdlParser.h" alt="" coords="532,229,693,256"/>
+<area shape="rect" id="node5" href="$d7/dad/_vhdl_parser_token_manager_8h.html" title="vhdlparser/VhdlParserToken\lManager.h" alt="" coords="705,304,891,345"/>
+<area shape="rect" id="node9" href="$d3/dd5/_error_handler_8h.html" title="vhdlparser/ErrorHandler.h" alt="" coords="1015,155,1186,181"/>
+<area shape="rect" id="node10" href="$dd/dcd/_token_8h.html" title="vhdlparser/Token.h" alt="" coords="762,80,895,107"/>
+<area shape="rect" id="node11" href="$d7/de0/_parse_exception_8h.html" title="vhdlparser/ParseException.h" alt="" coords="493,155,682,181"/>
+<area shape="rect" id="node12" href="$d4/df9/_token_manager_8h.html" title="vhdlparser/TokenManager.h" alt="" coords="707,155,889,181"/>
+<area shape="rect" id="node13" href="$de/d2f/_token_mgr_error_8h.html" title="vhdlparser/TokenMgrError.h" alt="" coords="971,80,1153,107"/>
+<area shape="rect" id="node14" href="$dc/d21/_vhdl_parser_constants_8h.html" title="vhdlparser/VhdlParserConstants.h" alt="" coords="247,155,469,181"/>
+<area shape="rect" id="node6" href="$da/d40/_vhdl_parser_i_f_8cpp.html" title="vhdlparser/VhdlParserIF.cpp" alt="" coords="217,393,403,420"/>
+<area shape="rect" id="node4" href="$de/dea/vhdldocgen_8cpp.html" title="src/vhdldocgen.cpp" alt="" coords="545,311,680,338"/>
+<area shape="rect" id="node7" href="$dd/d6f/_vhdl_parser_i_f_8h.html" title="vhdlparser/VhdlParserIF.h" alt="" coords="347,311,521,338"/>
+<area shape="rect" id="node8" href="$d1/d86/vhdljjparser_8cpp.html" title="src/vhdljjparser.cpp" alt="" coords="428,393,563,420"/>
+</map>

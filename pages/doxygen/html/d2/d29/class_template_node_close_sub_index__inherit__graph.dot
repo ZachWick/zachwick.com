@@ -1,0 +1,14 @@
+digraph "TemplateNodeCloseSubIndex"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="TemplateNodeCloseSubIndex",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="TemplateNodeCreator\l\< TemplateNodeCloseSubIndex \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d78/class_template_node_creator.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="TemplateNode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d53/class_template_node.html",tooltip="Base class of all nodes in a template&#39;s AST. "];
+  Node3 -> Node1 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< TemplateNodeCloseSubIndex \>" ,fontname="Helvetica"];
+  Node3 [label="TemplateNodeCreator\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d78/class_template_node_creator.html",tooltip="Helper class for creating template AST tag nodes and returning the template for a given node..."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

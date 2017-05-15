@@ -1,0 +1,4 @@
+<map id="TemplateNodeVariable" name="TemplateNodeVariable">
+<area shape="rect" id="node2" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST. " alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node3" href="$dc/dfa/class_expr_ast.html" title="Base class for all nodes in the abstract syntax tree of an expression. " alt="" coords="219,5,288,32"/>
+</map>

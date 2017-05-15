@@ -1,0 +1,49 @@
+<map id="MemberInfoContext" name="MemberInfoContext">
+<area shape="rect" id="node2" href="$d8/d96/class_ref_counted_context.html" title="Helper class to support reference counting. " alt="" coords="1867,240,2006,267"/>
+<area shape="rect" id="node8" href="$d5/d43/class_member_context.html" title="MemberContext" alt="" coords="2161,208,2276,235"/>
+<area shape="rect" id="node3" href="$d9/de8/class_template_struct_intf.html" title="Abstract interface for a context value of type struct. " alt="" coords="1871,344,2002,371"/>
+<area shape="rect" id="node4" href="$d3/db1/class_member_info_context_1_1_private.html" title="MemberInfoContext::\lPrivate" alt="" coords="2783,179,2928,221"/>
+<area shape="rect" id="node5" href="$d1/d80/class_property_mapper.html" title="PropertyMapper\&lt; MemberInfo\lContext::Private \&gt;" alt="" coords="1636,77,1831,118"/>
+<area shape="rect" id="node6" href="$d1/d80/class_property_mapper.html" title="Helper class to map a property name to a handler member function. " alt="" coords="1011,83,1158,109"/>
+<area shape="rect" id="node27" href="$d1/d80/class_property_mapper.html" title="PropertyMapper\&lt; MemberContext\l::Private \&gt;" alt="" coords="1393,135,1612,177"/>
+<area shape="rect" id="node7" href="$df/d12/class_shared_ptr.html" title="SharedPtr\&lt; MemberContext \&gt;" alt="" coords="2445,171,2643,197"/>
+<area shape="rect" id="node9" href="$dd/d99/class_member_context_1_1_private.html" title="MemberContext::Private" alt="" coords="1855,188,2019,215"/>
+<area shape="rect" id="node10" href="$d6/d49/class_definition_context.html" title="DefinitionContext\&lt;\l MemberContext::Private \&gt;" alt="" coords="995,197,1175,238"/>
+<area shape="rect" id="node11" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources. " alt="" coords="301,524,378,551"/>
+<area shape="rect" id="node14" href="$d3/ddf/class_definition_impl.html" title="Private data associated with a Symbol Definition object. " alt="" coords="1451,823,1554,849"/>
+<area shape="rect" id="node17" href="$de/db0/class_file_def.html" title="A model of a file symbol. " alt="" coords="667,1312,731,1339"/>
+<area shape="rect" id="node26" href="$d6/d49/class_definition_context.html" title="DefinitionContext\&lt; T \&gt;" alt="" coords="621,75,776,101"/>
+<area shape="rect" id="node28" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol. " alt="" coords="1457,527,1548,553"/>
+<area shape="rect" id="node30" href="$da/d32/class_member_group.html" title="A class representing a group of members. " alt="" coords="647,316,751,343"/>
+<area shape="rect" id="node33" href="$d0/d07/class_namespace_def.html" title="A model of a namespace symbol. " alt="" coords="642,1128,755,1155"/>
+<area shape="rect" id="node35" href="$d8/d09/class_group_def.html" title="A model of a group of symbols. " alt="" coords="659,627,738,653"/>
+<area shape="rect" id="node40" href="$d1/dcf/class_class_def.html" title="A class representing of a compound symbol. " alt="" coords="2180,397,2257,424"/>
+<area shape="rect" id="node12" href="$d9/d4a/class_definition_intf.html" title="Abstract interface for a Definition or DefinitionList. " alt="" coords="30,549,126,576"/>
+<area shape="rect" id="node13" href="$d1/d2f/struct_definition_1_1_cookie.html" title="Definition::Cookie" alt="" coords="15,499,141,525"/>
+<area shape="rect" id="node15" href="$de/d9a/class_section_dict.html" title="Unsorted dictionary of SectionInfo objects. " alt="" coords="1039,849,1130,876"/>
+<area shape="rect" id="node16" href="$db/dab/struct_body_info.html" title="Data associated with description found in the body. " alt="" coords="1047,1192,1122,1219"/>
+<area shape="rect" id="node29" href="$d7/d7e/class_member_def_impl.html" title="MemberDefImpl" alt="" coords="1027,537,1142,564"/>
+<area shape="rect" id="node41" href="$d1/d25/class_class_def_impl.html" title="Private data associated with a ClassDef object. " alt="" coords="1885,907,1988,933"/>
+<area shape="rect" id="node45" href="$d5/dc1/struct_include_info.html" title="Class representing the data associated with a #include statement. " alt="" coords="1241,1361,1327,1388"/>
+<area shape="rect" id="node18" href="$d9/d3d/class_class_s_dict.html" title="A sorted dictionary of ClassDef objects. " alt="" coords="295,1047,384,1073"/>
+<area shape="rect" id="node19" href="$d1/d50/class_s_dict.html" title="SDict\&lt; Definition \&gt;" alt="" coords="272,1461,407,1488"/>
+<area shape="rect" id="node20" href="$dc/d1e/class_member_group_s_dict.html" title="A sorted dictionary of MemberGroup objects. " alt="" coords="271,1345,408,1372"/>
+<area shape="rect" id="node21" href="$d4/d8d/class_namespace_s_dict.html" title="A sorted dictionary of NamespaceDef objects. " alt="" coords="277,1215,402,1241"/>
+<area shape="rect" id="node22" href="$d6/dd6/class_member_s_dict.html" title="A sorted dictionary of MemberDef objects. " alt="" coords="288,1525,391,1552"/>
+<area shape="rect" id="node23" href="$d3/d3b/class_group_list.html" title="A list of GroupDef objects. " alt="" coords="300,693,379,720"/>
+<area shape="rect" id="node24" href="$d7/dd5/struct_doc_info.html" title="Data associated with a detailed description. " alt="" coords="1051,900,1119,927"/>
+<area shape="rect" id="node25" href="$d0/da7/struct_brief_info.html" title="Data associated with a brief description. " alt="" coords="1049,951,1120,977"/>
+<area shape="rect" id="node50" href="$d3/d49/struct_member_info.html" title="Data associated with a MemberDef in an inheritance relation. " alt="" coords="2499,397,2589,424"/>
+<area shape="rect" id="node31" href="$dd/d13/class_member_list.html" title="A list of MemberDef objects. " alt="" coords="294,229,385,256"/>
+<area shape="rect" id="node34" href="$d0/d18/class_file_list.html" title="Class representing a list of FileDef objects. " alt="" coords="307,793,371,820"/>
+<area shape="rect" id="node36" href="$d6/d70/class_member_name_info_s_dict.html" title="Sorted dictionary of MemberNameInfo objects. " alt="" coords="260,101,419,128"/>
+<area shape="rect" id="node37" href="$d0/d31/class_example_s_dict.html" title="A sorted dictionary of Example objects. " alt="" coords="645,736,752,763"/>
+<area shape="rect" id="node38" href="$d7/df8/class_argument_list.html" title="This class represents an function or template argument list. " alt="" coords="649,680,748,707"/>
+<area shape="rect" id="node39" href="$d1/d50/class_s_dict.html" title="SDict\&lt; MemberList \&gt;" alt="" coords="625,265,772,292"/>
+<area shape="rect" id="node42" href="$d1/d50/class_s_dict.html" title="SDict\&lt; QCString \&gt;" alt="" coords="1436,772,1569,799"/>
+<area shape="rect" id="node43" href="$d7/d46/class_base_class_list.html" title="List of base classes. " alt="" coords="1449,873,1556,900"/>
+<area shape="rect" id="node44" href="$d7/da3/class_class_list.html" title="A list of ClassDef objects. " alt="" coords="1464,924,1541,951"/>
+<area shape="rect" id="node46" href="$d2/d84/class_uses_class_dict.html" title="Dictionary of usage relations. " alt="" coords="1447,975,1558,1001"/>
+<area shape="rect" id="node47" href="$df/d6f/class_constraint_class_dict.html" title="Dictionary of constraint relations. " alt="" coords="1433,1423,1573,1449"/>
+<area shape="rect" id="node48" href="$df/d12/class_shared_ptr.html" title="Reference counting smart pointer. " alt="" coords="2163,148,2275,175"/>
+</map>

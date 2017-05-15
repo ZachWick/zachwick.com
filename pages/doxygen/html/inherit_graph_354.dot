@@ -1,0 +1,8 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="TagPackageInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d48/class_tag_package_info.html",tooltip="Container for package specific info that can be read from a tagfile. "];
+}

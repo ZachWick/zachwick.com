@@ -1,0 +1,5 @@
+<map id="TemplateVariant::Delegate" name="TemplateVariant::Delegate">
+<area shape="rect" id="node2" href="$d1/dba/class_template_variant.html" title="Variant type which can hold one value of a fixed set of types. " alt="" coords="171,95,289,121"/>
+<area shape="rect" id="node3" href="$d6/d88/class_template_list_intf.html" title="Abstract read&#45;only interface for a context value of type list. " alt="" coords="220,5,336,32"/>
+<area shape="rect" id="node4" href="$d9/de8/class_template_struct_intf.html" title="Abstract interface for a context value of type struct. " alt="" coords="361,5,491,32"/>
+</map>

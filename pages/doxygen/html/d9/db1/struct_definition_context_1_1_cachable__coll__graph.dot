@@ -1,0 +1,43 @@
+digraph "DefinitionContext&lt; T &gt;::Cachable"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node13 [label="DefinitionContext\<\l T \>::Cachable",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node14 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="Definition::Cookie",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d2f/struct_definition_1_1_cookie.html"];
+  Node15 -> Node13 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" lineLink\nfileLink" ,fontname="Helvetica"];
+  Node15 [label="SharedPtr\< TemplateStruct \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d12/class_shared_ptr.html"];
+  Node16 -> Node15 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_ptr" ,fontname="Helvetica"];
+  Node16 [label="TemplateStruct",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d4b/class_template_struct.html",tooltip="Default implementation of a context value of type struct. "];
+  Node17 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="TemplateStructIntf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/de8/class_template_struct_intf.html",tooltip="Abstract interface for a context value of type struct. "];
+  Node18 -> Node16 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" p" ,fontname="Helvetica"];
+  Node18 [label="TemplateStruct::Private",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d63/class_template_struct_1_1_private.html",tooltip="Private data of a template struct object. "];
+  Node19 -> Node15 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< TemplateStruct \>" ,fontname="Helvetica"];
+  Node19 [label="SharedPtr\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d12/class_shared_ptr.html",tooltip="Reference counting smart pointer. "];
+  Node20 -> Node19 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_ptr" ,fontname="Helvetica"];
+  Node20 [label="T",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node21 -> Node13 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" navPath\nsourceDef" ,fontname="Helvetica"];
+  Node21 [label="SharedPtr\< TemplateList \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d12/class_shared_ptr.html"];
+  Node22 -> Node21 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_ptr" ,fontname="Helvetica"];
+  Node22 [label="TemplateList",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dab/class_template_list.html",tooltip="Default implementation of a context value of type list. "];
+  Node23 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="TemplateListIntf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d88/class_template_list_intf.html",tooltip="Abstract read-only interface for a context value of type list. "];
+  Node24 -> Node22 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" p" ,fontname="Helvetica"];
+  Node24 [label="TemplateList::Private",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dee/class_template_list_1_1_private.html",tooltip="Private data of a template list object. "];
+  Node19 -> Node21 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< TemplateList \>" ,fontname="Helvetica"];
+  Node25 -> Node13 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" brief\ninbodyDocs\ndetails" ,fontname="Helvetica"];
+  Node25 [label="ScopedPtr\< TemplateVariant \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d9b/class_scoped_ptr.html"];
+  Node26 -> Node25 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_ptr" ,fontname="Helvetica"];
+  Node26 [label="TemplateVariant",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/dba/class_template_variant.html",tooltip="Variant type which can hold one value of a fixed set of types. "];
+  Node23 -> Node26 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_list" ,fontname="Helvetica"];
+  Node17 -> Node26 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_strukt" ,fontname="Helvetica"];
+  Node27 -> Node26 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_delegate" ,fontname="Helvetica"];
+  Node27 [label="TemplateVariant::Delegate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d1d/class_template_variant_1_1_delegate.html",tooltip="Helper class to create a delegate that can store a function/method call. "];
+  Node26 -> Node27 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_stubPtr" ,fontname="Helvetica"];
+  Node28 -> Node25 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< TemplateVariant \>" ,fontname="Helvetica"];
+  Node28 [label="ScopedPtr\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d9b/class_scoped_ptr.html",tooltip="Scoped smart pointer. "];
+  Node20 -> Node28 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_ptr" ,fontname="Helvetica"];
+}

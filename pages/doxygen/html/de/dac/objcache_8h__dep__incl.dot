@@ -1,0 +1,13 @@
+digraph "src/objcache.h"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="src/objcache.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="src/doxygen.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d98/doxygen_8cpp.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="src/memberdef.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d72/memberdef_8cpp.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="src/objcache.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d11/objcache_8cpp.html"];
+}

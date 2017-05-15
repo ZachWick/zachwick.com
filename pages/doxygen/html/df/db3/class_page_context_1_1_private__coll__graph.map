@@ -1,0 +1,42 @@
+<map id="PageContext::Private" name="PageContext::Private">
+<area shape="rect" id="node2" href="$d6/d49/class_definition_context.html" title="DefinitionContext\&lt;\l PageContext::Private \&gt;" alt="" coords="1472,894,1635,935"/>
+<area shape="rect" id="node3" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources. " alt="" coords="837,844,915,871"/>
+<area shape="rect" id="node6" href="$d3/ddf/class_definition_impl.html" title="Private data associated with a Symbol Definition object. " alt="" coords="2083,801,2185,828"/>
+<area shape="rect" id="node15" href="$de/db0/class_file_def.html" title="A model of a file symbol. " alt="" coords="1521,591,1585,617"/>
+<area shape="rect" id="node27" href="$d4/dd4/class_dir_def.html" title="A model of a directory symbol. " alt="" coords="1134,680,1194,707"/>
+<area shape="rect" id="node43" href="$d6/d49/class_definition_context.html" title="DefinitionContext\&lt; T \&gt;" alt="" coords="1087,895,1241,921"/>
+<area shape="rect" id="node44" href="$dd/d41/class_page_def.html" title="A model of a page symbol. " alt="" coords="1517,1008,1590,1035"/>
+<area shape="rect" id="node4" href="$d9/d4a/class_definition_intf.html" title="Abstract interface for a Definition or DefinitionList. " alt="" coords="489,796,585,823"/>
+<area shape="rect" id="node5" href="$d1/d2f/struct_definition_1_1_cookie.html" title="Definition::Cookie" alt="" coords="473,847,600,873"/>
+<area shape="rect" id="node7" href="$de/d9a/class_section_dict.html" title="Unsorted dictionary of SectionInfo objects. " alt="" coords="1306,289,1397,316"/>
+<area shape="rect" id="node8" href="$d1/d50/class_s_dict.html" title="SDict\&lt; SectionInfo \&gt;" alt="" coords="803,295,949,321"/>
+<area shape="rect" id="node9" href="$df/dce/class_s_list.html" title="SList\&lt; SectionInfo \&gt;" alt="" coords="1093,256,1235,283"/>
+<area shape="rect" id="node11" href="$df/dce/class_s_list.html" title="internal wrapper class that redirects compareValues() to the dictionary " alt="" coords="171,239,255,265"/>
+<area shape="rect" id="node18" href="$df/dce/class_s_list.html" title="SList\&lt; ClassDef \&gt;" alt="" coords="471,615,602,641"/>
+<area shape="rect" id="node21" href="$df/dce/class_s_list.html" title="SList\&lt; Definition \&gt;" alt="" coords="471,119,602,145"/>
+<area shape="rect" id="node34" href="$df/dce/class_s_list.html" title="SList\&lt; NamespaceDef \&gt;" alt="" coords="453,433,620,460"/>
+<area shape="rect" id="node37" href="$df/dce/class_s_list.html" title="SList\&lt; MemberDef \&gt;" alt="" coords="465,25,609,52"/>
+<area shape="rect" id="node47" href="$df/dce/class_s_list.html" title="SList\&lt; PageDef \&gt;" alt="" coords="473,897,600,924"/>
+<area shape="rect" id="node13" href="$d1/d50/class_s_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="493,320,580,347"/>
+<area shape="rect" id="node17" href="$d1/d50/class_s_dict.html" title="SDict\&lt; ClassDef \&gt;" alt="" coords="809,603,943,629"/>
+<area shape="rect" id="node20" href="$d1/d50/class_s_dict.html" title="SDict\&lt; Definition \&gt;" alt="" coords="809,124,943,151"/>
+<area shape="rect" id="node33" href="$d1/d50/class_s_dict.html" title="SDict\&lt; NamespaceDef \&gt;" alt="" coords="791,433,961,460"/>
+<area shape="rect" id="node36" href="$d1/d50/class_s_dict.html" title="SDict\&lt; MemberDef \&gt;" alt="" coords="803,28,949,55"/>
+<area shape="rect" id="node46" href="$d1/d50/class_s_dict.html" title="SDict\&lt; PageDef \&gt;" alt="" coords="811,917,941,944"/>
+<area shape="rect" id="node14" href="$db/dab/struct_body_info.html" title="Data associated with description found in the body. " alt="" coords="1841,695,1916,721"/>
+<area shape="rect" id="node16" href="$d9/d3d/class_class_s_dict.html" title="A sorted dictionary of ClassDef objects. " alt="" coords="1119,591,1209,617"/>
+<area shape="rect" id="node23" href="$dc/d1e/class_member_group_s_dict.html" title="A sorted dictionary of MemberGroup objects. " alt="" coords="1095,540,1233,567"/>
+<area shape="rect" id="node24" href="$d0/d9f/class_s_int_dict.html" title="SIntDict\&lt; MemberGroup \&gt;" alt="" coords="788,519,964,545"/>
+<area shape="rect" id="node25" href="$d8/d9a/class_s_int_list.html" title="SIntList\&lt; MemberGroup \&gt;" alt="" coords="1077,488,1251,515"/>
+<area shape="rect" id="node26" href="$d0/d9f/class_s_int_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="485,524,588,551"/>
+<area shape="rect" id="node28" href="$dc/d2a/class_dir_list.html" title="A list of directories. " alt="" coords="846,659,906,685"/>
+<area shape="rect" id="node30" href="$d0/d18/class_file_list.html" title="Class representing a list of FileDef objects. " alt="" coords="844,720,908,747"/>
+<area shape="rect" id="node32" href="$d4/d8d/class_namespace_s_dict.html" title="A sorted dictionary of NamespaceDef objects. " alt="" coords="1101,435,1227,461"/>
+<area shape="rect" id="node35" href="$d6/dd6/class_member_s_dict.html" title="A sorted dictionary of MemberDef objects. " alt="" coords="1679,140,1781,167"/>
+<area shape="rect" id="node39" href="$d3/d3b/class_group_list.html" title="A list of GroupDef objects. " alt="" coords="1839,832,1918,859"/>
+<area shape="rect" id="node41" href="$d7/dd5/struct_doc_info.html" title="Data associated with a detailed description. " alt="" coords="1845,883,1913,909"/>
+<area shape="rect" id="node42" href="$d0/da7/struct_brief_info.html" title="Data associated with a brief description. " alt="" coords="1843,933,1914,960"/>
+<area shape="rect" id="node45" href="$d0/d59/class_page_s_dict.html" title="PageSDict" alt="" coords="1121,1059,1207,1085"/>
+<area shape="rect" id="node49" href="$d1/d80/class_property_mapper.html" title="PropertyMapper\&lt; PageContext\l::Private \&gt;" alt="" coords="1452,1075,1655,1117"/>
+<area shape="rect" id="node50" href="$d1/d80/class_property_mapper.html" title="Helper class to map a property name to a handler member function. " alt="" coords="1091,1109,1237,1136"/>
+</map>

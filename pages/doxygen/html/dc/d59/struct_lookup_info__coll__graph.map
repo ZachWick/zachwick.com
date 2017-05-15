@@ -1,0 +1,46 @@
+<map id="LookupInfo" name="LookupInfo">
+<area shape="rect" id="node2" href="$da/d09/class_member_def.html" title="A model of a class/file/namespace member symbol. " alt="" coords="2109,948,2200,975"/>
+<area shape="rect" id="node24" href="$d7/d7e/class_member_def_impl.html" title="MemberDefImpl" alt="" coords="2924,1073,3039,1100"/>
+<area shape="rect" id="node41" href="$d1/d25/class_class_def_impl.html" title="Private data associated with a ClassDef object. " alt="" coords="2408,420,2511,447"/>
+<area shape="rect" id="node3" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources. " alt="" coords="1755,887,1832,913"/>
+<area shape="rect" id="node6" href="$d3/ddf/class_definition_impl.html" title="Private data associated with a Symbol Definition object. " alt="" coords="1427,827,1529,853"/>
+<area shape="rect" id="node9" href="$de/db0/class_file_def.html" title="A model of a file symbol. " alt="" coords="980,492,1044,519"/>
+<area shape="rect" id="node15" href="$d4/dd4/class_dir_def.html" title="A model of a directory symbol. " alt="" coords="2125,645,2185,672"/>
+<area shape="rect" id="node25" href="$da/d32/class_member_group.html" title="A class representing a group of members. " alt="" coords="2103,1328,2207,1355"/>
+<area shape="rect" id="node29" href="$d0/d07/class_namespace_def.html" title="A model of a namespace symbol. " alt="" coords="2098,724,2211,751"/>
+<area shape="rect" id="node30" href="$d8/d09/class_group_def.html" title="A model of a group of symbols. " alt="" coords="2115,1185,2194,1212"/>
+<area shape="rect" id="node40" href="$d1/dcf/class_class_def.html" title="A class representing of a compound symbol. " alt="" coords="2657,495,2735,521"/>
+<area shape="rect" id="node4" href="$d9/d4a/class_definition_intf.html" title="Abstract interface for a Definition or DefinitionList. " alt="" coords="1430,877,1526,904"/>
+<area shape="rect" id="node5" href="$d1/d2f/struct_definition_1_1_cookie.html" title="Definition::Cookie" alt="" coords="1415,928,1541,955"/>
+<area shape="rect" id="node7" href="$de/d9a/class_section_dict.html" title="Unsorted dictionary of SectionInfo objects. " alt="" coords="1141,923,1231,949"/>
+<area shape="rect" id="node8" href="$db/dab/struct_body_info.html" title="Data associated with description found in the body. " alt="" coords="1149,757,1223,784"/>
+<area shape="rect" id="node48" href="$d5/dc1/struct_include_info.html" title="Class representing the data associated with a #include statement. " alt="" coords="1278,236,1365,263"/>
+<area shape="rect" id="node10" href="$d9/d3d/class_class_s_dict.html" title="A sorted dictionary of ClassDef objects. " alt="" coords="678,1092,767,1119"/>
+<area shape="rect" id="node11" href="$d1/d50/class_s_dict.html" title="SDict\&lt; ClassDef \&gt;" alt="" coords="279,1163,414,1189"/>
+<area shape="rect" id="node12" href="$d1/d50/class_s_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="5,1199,92,1225"/>
+<area shape="rect" id="node13" href="$d1/d50/class_s_dict.html" title="SDict\&lt; Definition \&gt;" alt="" coords="655,364,790,391"/>
+<area shape="rect" id="node32" href="$d1/d50/class_s_dict.html" title="SDict\&lt; MemberNameInfo \&gt;" alt="" coords="444,1231,627,1257"/>
+<area shape="rect" id="node35" href="$d1/d50/class_s_dict.html" title="SDict\&lt; Example \&gt;" alt="" coords="822,120,953,147"/>
+<area shape="rect" id="node38" href="$d1/d50/class_s_dict.html" title="SDict\&lt; MemberList \&gt;" alt="" coords="273,1295,420,1321"/>
+<area shape="rect" id="node42" href="$d1/d50/class_s_dict.html" title="SDict\&lt; QCString \&gt;" alt="" coords="280,1615,413,1641"/>
+<area shape="rect" id="node14" href="$dc/d1e/class_member_group_s_dict.html" title="A sorted dictionary of MemberGroup objects. " alt="" coords="654,435,791,461"/>
+<area shape="rect" id="node16" href="$dc/d2a/class_dir_list.html" title="A list of directories. " alt="" coords="1763,653,1823,680"/>
+<area shape="rect" id="node17" href="$d0/d18/class_file_list.html" title="Class representing a list of FileDef objects. " alt="" coords="1761,579,1825,605"/>
+<area shape="rect" id="node19" href="$d4/d8d/class_namespace_s_dict.html" title="A sorted dictionary of NamespaceDef objects. " alt="" coords="660,1345,785,1372"/>
+<area shape="rect" id="node20" href="$d6/dd6/class_member_s_dict.html" title="A sorted dictionary of MemberDef objects. " alt="" coords="1135,689,1237,716"/>
+<area shape="rect" id="node21" href="$d3/d3b/class_group_list.html" title="A list of GroupDef objects. " alt="" coords="1147,983,1225,1009"/>
+<area shape="rect" id="node22" href="$d7/dd5/struct_doc_info.html" title="Data associated with a detailed description. " alt="" coords="1152,821,1220,848"/>
+<area shape="rect" id="node23" href="$d0/da7/struct_brief_info.html" title="Data associated with a brief description. " alt="" coords="1151,872,1221,899"/>
+<area shape="rect" id="node26" href="$dd/d13/class_member_list.html" title="A list of MemberDef objects. " alt="" coords="1748,1520,1839,1547"/>
+<area shape="rect" id="node28" href="$df/d11/class_member_group_list.html" title="A list of MemberGroup objects. " alt="" coords="1415,1496,1541,1523"/>
+<area shape="rect" id="node31" href="$d6/d70/class_member_name_info_s_dict.html" title="Sorted dictionary of MemberNameInfo objects. " alt="" coords="1714,1244,1873,1271"/>
+<area shape="rect" id="node33" href="$d0/d59/class_page_s_dict.html" title="PageSDict" alt="" coords="1751,1416,1836,1443"/>
+<area shape="rect" id="node34" href="$d0/d31/class_example_s_dict.html" title="A sorted dictionary of Example objects. " alt="" coords="2101,9,2208,36"/>
+<area shape="rect" id="node36" href="$d7/df8/class_argument_list.html" title="This class represents an function or template argument list. " alt="" coords="2105,325,2204,352"/>
+<area shape="rect" id="node39" href="$df/dce/class_s_list.html" title="SList\&lt; MemberList \&gt;" alt="" coords="651,1295,795,1321"/>
+<area shape="rect" id="node43" href="$df/dce/class_s_list.html" title="SList\&lt; QCString \&gt;" alt="" coords="657,1663,788,1689"/>
+<area shape="rect" id="node44" href="$d7/d46/class_base_class_list.html" title="List of base classes. " alt="" coords="2101,60,2208,87"/>
+<area shape="rect" id="node46" href="$d7/da3/class_class_list.html" title="A list of ClassDef objects. " alt="" coords="2116,167,2193,193"/>
+<area shape="rect" id="node49" href="$d2/d84/class_uses_class_dict.html" title="Dictionary of usage relations. " alt="" coords="2099,385,2210,412"/>
+<area shape="rect" id="node50" href="$df/d6f/class_constraint_class_dict.html" title="Dictionary of constraint relations. " alt="" coords="2085,436,2225,463"/>
+</map>

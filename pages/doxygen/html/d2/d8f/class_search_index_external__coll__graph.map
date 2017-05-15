@@ -1,0 +1,10 @@
+<map id="SearchIndexExternal" name="SearchIndexExternal">
+<area shape="rect" id="node2" href="$d8/d4d/class_search_index_intf.html" title="SearchIndexIntf" alt="" coords="120,206,235,233"/>
+<area shape="rect" id="node3" href="$d1/db6/struct_search_index_external_1_1_private.html" title="SearchIndexExternal\l::Private" alt="" coords="455,199,598,240"/>
+<area shape="rect" id="node4" href="$d1/d50/class_s_dict.html" title="SDict\&lt; SearchDocEntry \&gt;" alt="" coords="357,109,531,136"/>
+<area shape="rect" id="node5" href="$df/dce/class_s_list.html" title="SList\&lt; SearchDocEntry \&gt;" alt="" coords="259,206,431,233"/>
+<area shape="rect" id="node7" href="$df/dce/class_s_list.html" title="internal wrapper class that redirects compareValues() to the dictionary " alt="" coords="203,109,287,136"/>
+<area shape="rect" id="node9" href="$d1/d50/class_s_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="401,5,487,32"/>
+<area shape="rect" id="node10" href="$dd/df7/struct_search_doc_entry.html" title="SearchDocEntry" alt="" coords="555,109,674,136"/>
+<area shape="rect" id="node11" href="$d8/d33/class_grow_buf.html" title="Class representing a string buffer optimised for growing. " alt="" coords="578,5,651,32"/>
+</map>
