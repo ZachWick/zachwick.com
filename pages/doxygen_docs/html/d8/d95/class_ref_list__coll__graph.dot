@@ -1,0 +1,22 @@
+digraph "RefList"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="RefList",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_itemList" ,fontname="Helvetica"];
+  Node2 [label="SortedRefItems",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d8c/class_sorted_ref_items.html",tooltip="List of items sorted by title. "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="SDict\< RefItem \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d50/class_s_dict.html"];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_list" ,fontname="Helvetica"];
+  Node4 [label="SList\< RefItem \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dce/class_s_list.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="QList\< RefItem \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_owner" ,fontname="Helvetica"];
+  Node6 -> Node4 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< RefItem \>" ,fontname="Helvetica"];
+  Node6 [label="SList\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dce/class_s_list.html",tooltip="internal wrapper class that redirects compareValues() to the dictionary "];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="QList\< T \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node8 -> Node3 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< RefItem \>" ,fontname="Helvetica"];
+  Node8 [label="SDict\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d50/class_s_dict.html",tooltip="Ordered dictionary of elements of type T. "];
+}

@@ -1,0 +1,41 @@
+digraph "src/pagedef.h"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node8 [label="src/pagedef.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="src/context.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d12/context_8cpp.html"];
+  Node8 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="src/definition.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/dea/definition_8cpp.html"];
+  Node8 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="src/docbookgen.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d29/docbookgen_8cpp.html"];
+  Node8 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="src/docparser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d17/docparser_8cpp.html"];
+  Node8 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="src/dot.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/daa/dot_8cpp.html"];
+  Node8 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="src/doxygen.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d98/doxygen_8cpp.html"];
+  Node8 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="src/ftvhelp.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d41/ftvhelp_8cpp.html"];
+  Node8 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="src/groupdef.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d42/groupdef_8cpp.html"];
+  Node8 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="src/htmlgen.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d6e/htmlgen_8cpp.html"];
+  Node8 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="src/index.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d14/index_8cpp.html",tooltip="This file contains functions for the various index pages. "];
+  Node8 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="src/latexgen.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d42/latexgen_8cpp.html"];
+  Node8 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="src/pagedef.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/db4/pagedef_8cpp.html"];
+  Node8 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="src/perlmodgen.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dd0/perlmodgen_8cpp.html"];
+  Node8 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 [label="src/rtfgen.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d9c/rtfgen_8cpp.html"];
+  Node8 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="src/searchindex.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d79/searchindex_8cpp.html"];
+  Node8 -> Node24 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node24 [label="src/util.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d2d/util_8cpp.html"];
+  Node8 -> Node25 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node25 [label="src/xmlgen.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dc3/xmlgen_8cpp.html"];
+}

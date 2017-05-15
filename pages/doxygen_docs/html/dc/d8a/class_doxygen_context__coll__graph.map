@@ -1,0 +1,8 @@
+<map id="DoxygenContext" name="DoxygenContext">
+<area shape="rect" id="node2" href="$d8/d96/class_ref_counted_context.html" title="Helper class to support reference counting. " alt="" coords="5,199,144,225"/>
+<area shape="rect" id="node3" href="$d9/de8/class_template_struct_intf.html" title="Abstract interface for a context value of type struct. " alt="" coords="168,199,299,225"/>
+<area shape="rect" id="node4" href="$d3/df4/class_doxygen_context_1_1_private.html" title="DoxygenContext::Private" alt="" coords="323,199,493,225"/>
+<area shape="rect" id="node5" href="$d2/d70/struct_doxygen_context_1_1_private_1_1_cachable.html" title="DoxygenContext::Private\l::Cachable" alt="" coords="246,95,415,136"/>
+<area shape="rect" id="node6" href="$d1/d80/class_property_mapper.html" title="PropertyMapper\&lt; DoxygenContext\l::Private \&gt;" alt="" coords="440,95,664,136"/>
+<area shape="rect" id="node7" href="$d1/d80/class_property_mapper.html" title="Helper class to map a property name to a handler member function. " alt="" coords="479,5,625,32"/>
+</map>

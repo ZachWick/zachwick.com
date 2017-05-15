@@ -1,0 +1,7 @@
+<map id="DotManager" name="DotManager">
+<area shape="rect" id="node2" href="$d6/dbb/class_dot_runner_queue.html" title="Queue of dot jobs to run. " alt="" coords="5,95,128,121"/>
+<area shape="rect" id="node3" href="$d1/d50/class_s_dict.html" title="SDict\&lt; DotFilePatcher \&gt;" alt="" coords="153,95,319,121"/>
+<area shape="rect" id="node4" href="$df/dce/class_s_list.html" title="SList\&lt; DotFilePatcher \&gt;" alt="" coords="312,184,475,211"/>
+<area shape="rect" id="node6" href="$df/dce/class_s_list.html" title="internal wrapper class that redirects compareValues() to the dictionary " alt="" coords="531,95,615,121"/>
+<area shape="rect" id="node8" href="$d1/d50/class_s_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="193,5,279,32"/>
+</map>

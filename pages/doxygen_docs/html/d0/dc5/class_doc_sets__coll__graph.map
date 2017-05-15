@@ -1,0 +1,10 @@
+<map id="DocSets" name="DocSets">
+<area shape="rect" id="node2" href="$d9/dd5/class_index_intf.html" title="Abstract interface for index generators. " alt="" coords="321,260,394,287"/>
+<area shape="rect" id="node3" href="$d1/d50/class_s_dict.html" title="SDict\&lt; void \&gt;" alt="" coords="194,260,297,287"/>
+<area shape="rect" id="node4" href="$df/dce/class_s_list.html" title="SList\&lt; void \&gt;" alt="" coords="115,364,215,391"/>
+<area shape="rect" id="node6" href="$df/dce/class_s_list.html" title="internal wrapper class that redirects compareValues() to the dictionary " alt="" coords="201,81,285,108"/>
+<area shape="rect" id="node11" href="$df/dce/class_s_list.html" title="SList\&lt; DocSets::NodeDef \&gt;" alt="" coords="407,171,593,197"/>
+<area shape="rect" id="node8" href="$d1/d50/class_s_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="243,171,330,197"/>
+<area shape="rect" id="node10" href="$d1/d50/class_s_dict.html" title="SDict\&lt; DocSets::NodeDef \&gt;" alt="" coords="418,260,609,287"/>
+<area shape="rect" id="node9" href="$dc/d3c/class_f_text_stream.html" title="Simplified and optimized version of QTextStream. " alt="" coords="633,260,732,287"/>
+</map>

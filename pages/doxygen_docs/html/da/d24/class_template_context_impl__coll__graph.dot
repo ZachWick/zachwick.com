@@ -1,0 +1,33 @@
+digraph "TemplateContextImpl"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2 [label="TemplateContextImpl",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="TemplateContext",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d1b/class_template_context.html",tooltip="Abstract interface for a template context. "];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_activeEscapeIntf" ,fontname="Helvetica"];
+  Node4 [label="TemplateEscapeIntf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d9c/class_template_escape_intf.html",tooltip="Interface used to escape characters in a string. "];
+  Node5 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_blockContext" ,fontname="Helvetica"];
+  Node5 [label="TemplateBlockContext",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d7f/class_template_block_context.html",tooltip="Class holding stacks of blocks available in the context. "];
+  Node6 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_indices" ,fontname="Helvetica"];
+  Node6 [label="TemplateAutoRef\< Template\lStruct \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d82/class_template_auto_ref.html"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_obj" ,fontname="Helvetica"];
+  Node7 [label="TemplateStruct",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d4b/class_template_struct.html",tooltip="Default implementation of a context value of type struct. "];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="TemplateStructIntf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/de8/class_template_struct_intf.html",tooltip="Abstract interface for a context value of type struct. "];
+  Node9 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" p" ,fontname="Helvetica"];
+  Node9 [label="TemplateStruct::Private",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d63/class_template_struct_1_1_private.html",tooltip="Private data of a template struct object. "];
+  Node10 -> Node6 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< TemplateStruct \>" ,fontname="Helvetica"];
+  Node10 [label="TemplateAutoRef\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d82/class_template_auto_ref.html"];
+  Node11 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_obj" ,fontname="Helvetica"];
+  Node11 [label="T",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node12 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_engine" ,fontname="Helvetica"];
+  Node12 [label="TemplateEngine",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d1d/class_template_engine.html",tooltip="Engine to create templates and template contexts. "];
+  Node13 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" p" ,fontname="Helvetica"];
+  Node13 [label="TemplateEngine::Private",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d56/class_template_engine_1_1_private.html",tooltip="Private data of the template engine. "];
+  Node12 -> Node13 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_engine" ,fontname="Helvetica"];
+  Node14 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_spacelessIntf" ,fontname="Helvetica"];
+  Node14 [label="TemplateSpacelessIntf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d80/class_template_spaceless_intf.html",tooltip="Interface used to remove redundant spaces inside a spaceless block. "];
+}

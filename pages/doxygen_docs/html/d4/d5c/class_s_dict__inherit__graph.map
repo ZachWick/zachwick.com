@@ -1,0 +1,39 @@
+<map id="SDict&lt; T &gt;" name="SDict&lt; T &gt;">
+<area shape="rect" id="node2" href="$d1/d50/class_s_dict.html" title="SDict\&lt; MemberName \&gt;" alt="" coords="303,20,464,47"/>
+<area shape="rect" id="node4" href="$d1/d50/class_s_dict.html" title="SDict\&lt; MemberNameInfo \&gt;" alt="" coords="292,71,475,97"/>
+<area shape="rect" id="node6" href="$d1/d50/class_s_dict.html" title="SDict\&lt; PageDef \&gt;" alt="" coords="318,121,449,148"/>
+<area shape="rect" id="node8" href="$d1/d50/class_s_dict.html" title="SDict\&lt; QCString \&gt;" alt="" coords="317,172,450,199"/>
+<area shape="rect" id="node9" href="$d1/d50/class_s_dict.html" title="SDict\&lt; Definition \&gt;" alt="" coords="316,223,451,249"/>
+<area shape="rect" id="node10" href="$d1/d50/class_s_dict.html" title="SDict\&lt; MemberDef \&gt;" alt="" coords="310,273,457,300"/>
+<area shape="rect" id="node12" href="$d1/d50/class_s_dict.html" title="SDict\&lt; DirRelation \&gt;" alt="" coords="311,324,455,351"/>
+<area shape="rect" id="node13" href="$d1/d50/class_s_dict.html" title="SDict\&lt; DotFilePatcher \&gt;" alt="" coords="300,375,467,401"/>
+<area shape="rect" id="node14" href="$d1/d50/class_s_dict.html" title="SDict\&lt; NamespaceDef \&gt;" alt="" coords="298,425,469,452"/>
+<area shape="rect" id="node16" href="$d1/d50/class_s_dict.html" title="SDict\&lt; void \&gt;" alt="" coords="332,476,435,503"/>
+<area shape="rect" id="node17" href="$d1/d50/class_s_dict.html" title="SDict\&lt; GroupDef \&gt;" alt="" coords="316,527,451,553"/>
+<area shape="rect" id="node19" href="$d1/d50/class_s_dict.html" title="SDict\&lt; IndexField \&gt;" alt="" coords="314,577,453,604"/>
+<area shape="rect" id="node21" href="$d1/d50/class_s_dict.html" title="SDict\&lt; DocSets::NodeDef \&gt;" alt="" coords="288,628,479,655"/>
+<area shape="rect" id="node22" href="$d1/d50/class_s_dict.html" title="SDict\&lt; GenericsCollection \&gt;" alt="" coords="289,679,478,705"/>
+<area shape="rect" id="node23" href="$d1/d50/class_s_dict.html" title="SDict\&lt; FilePair \&gt;" alt="" coords="322,729,445,756"/>
+<area shape="rect" id="node25" href="$d1/d50/class_s_dict.html" title="SDict\&lt; ClassDef \&gt;" alt="" coords="316,780,451,807"/>
+<area shape="rect" id="node27" href="$d1/d50/class_s_dict.html" title="SDict\&lt; RefItem \&gt;" alt="" coords="320,831,447,857"/>
+<area shape="rect" id="node29" href="$d1/d50/class_s_dict.html" title="SDict\&lt; SearchDocEntry \&gt;" alt="" coords="296,881,471,908"/>
+<area shape="rect" id="node30" href="$d1/d50/class_s_dict.html" title="SDict\&lt; SearchDefinitionList \&gt;" alt="" coords="285,932,481,959"/>
+<area shape="rect" id="node32" href="$d1/d50/class_s_dict.html" title="SDict\&lt; SectionInfo \&gt;" alt="" coords="311,983,456,1009"/>
+<area shape="rect" id="node34" href="$d1/d50/class_s_dict.html" title="SDict\&lt; MemberList \&gt;" alt="" coords="310,1033,457,1060"/>
+<area shape="rect" id="node35" href="$d1/d50/class_s_dict.html" title="SDict\&lt; DirDef \&gt;" alt="" coords="325,1084,442,1111"/>
+<area shape="rect" id="node37" href="$d1/d50/class_s_dict.html" title="SDict\&lt; Example \&gt;" alt="" coords="318,1135,449,1161"/>
+<area shape="rect" id="node3" href="$d1/d7e/class_member_name_s_dict.html" title="Sorted dictionary of MemberName objects. " alt="" coords="541,20,679,47"/>
+<area shape="rect" id="node5" href="$d6/d70/class_member_name_info_s_dict.html" title="Sorted dictionary of MemberNameInfo objects. " alt="" coords="531,71,689,97"/>
+<area shape="rect" id="node7" href="$d0/d59/class_page_s_dict.html" title="PageSDict" alt="" coords="567,121,653,148"/>
+<area shape="rect" id="node11" href="$d6/dd6/class_member_s_dict.html" title="A sorted dictionary of MemberDef objects. " alt="" coords="559,273,661,300"/>
+<area shape="rect" id="node15" href="$d4/d8d/class_namespace_s_dict.html" title="A sorted dictionary of NamespaceDef objects. " alt="" coords="547,425,673,452"/>
+<area shape="rect" id="node18" href="$d0/d32/class_group_s_dict.html" title="A sorted dictionary of GroupDef objects. " alt="" coords="565,527,655,553"/>
+<area shape="rect" id="node20" href="$d3/db1/class_index_field_s_dict.html" title="Sorted dictionary of IndexField objects. " alt="" coords="553,577,667,604"/>
+<area shape="rect" id="node24" href="$d0/d5d/class_file_pair_dict.html" title="A sorted dictionary of FilePair objects. " alt="" coords="565,729,655,756"/>
+<area shape="rect" id="node26" href="$d9/d3d/class_class_s_dict.html" title="A sorted dictionary of ClassDef objects. " alt="" coords="565,780,655,807"/>
+<area shape="rect" id="node28" href="$d0/d8c/class_sorted_ref_items.html" title="List of items sorted by title. " alt="" coords="553,831,667,857"/>
+<area shape="rect" id="node31" href="$d8/d43/class_search_index_list.html" title="SearchIndexList" alt="" coords="552,932,668,959"/>
+<area shape="rect" id="node33" href="$de/d9a/class_section_dict.html" title="Unsorted dictionary of SectionInfo objects. " alt="" coords="565,983,655,1009"/>
+<area shape="rect" id="node36" href="$db/dc8/class_dir_s_dict.html" title="A sorted dictionary of DirDef objects. " alt="" coords="574,1084,646,1111"/>
+<area shape="rect" id="node38" href="$d0/d31/class_example_s_dict.html" title="A sorted dictionary of Example objects. " alt="" coords="557,1135,663,1161"/>
+</map>

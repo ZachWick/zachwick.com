@@ -1,0 +1,27 @@
+var struct_doc_parser_context =
+[
+    [ "context", "d8/d7d/struct_doc_parser_context.html#a440e2d11196fe51c4b5bc991345d866d", null ],
+    [ "copyStack", "d8/d7d/struct_doc_parser_context.html#a1fc927af6a2675bc3d2f480efbed7533", null ],
+    [ "exampleName", "d8/d7d/struct_doc_parser_context.html#a688f0551d40b6f51fb0daaa76631502b", null ],
+    [ "fileName", "d8/d7d/struct_doc_parser_context.html#a2b4c522f7f52850b1956b1b1504c4f1b", null ],
+    [ "hasParamCommand", "d8/d7d/struct_doc_parser_context.html#adfc69df470290ef49cf32d0e6cd83556", null ],
+    [ "hasReturnCommand", "d8/d7d/struct_doc_parser_context.html#ae20ce1c3e50ef1b4399b50f29f61607f", null ],
+    [ "includeFileLength", "d8/d7d/struct_doc_parser_context.html#ada8cb01b66567027d0799c5ce1e5dc2f", null ],
+    [ "includeFileOffset", "d8/d7d/struct_doc_parser_context.html#a8dca590b7e1548f62368aca98a1f8e5f", null ],
+    [ "includeFileText", "d8/d7d/struct_doc_parser_context.html#a741637628985f24ccf69b051638804ca", null ],
+    [ "initialStyleStack", "d8/d7d/struct_doc_parser_context.html#a27b9c48cc75461a3fcf436c60d6af39a", null ],
+    [ "inSeeBlock", "d8/d7d/struct_doc_parser_context.html#a9e9561c7ec0edba0d50cdcb482942bea", null ],
+    [ "insideHtmlLink", "d8/d7d/struct_doc_parser_context.html#a88cb2bde6d7f9ded45c9d33f33b65bb3", null ],
+    [ "isExample", "d8/d7d/struct_doc_parser_context.html#aa499773e2ac0458b4f616b07386e5685", null ],
+    [ "lineNo", "d8/d7d/struct_doc_parser_context.html#a9c5213ee28d100e9ad9fbd9518d2a099", null ],
+    [ "memberDef", "d8/d7d/struct_doc_parser_context.html#ae598a4b4f7337ef13ffaff9df878a8df", null ],
+    [ "nodeStack", "d8/d7d/struct_doc_parser_context.html#a813c4ba2030c8b34b2c9d8f1ff6020eb", null ],
+    [ "paramsFound", "d8/d7d/struct_doc_parser_context.html#a304223304af1183a5afa3b9a36a921af", null ],
+    [ "relPath", "d8/d7d/struct_doc_parser_context.html#a603ea82abcc694bf2aeb91d85378aa0d", null ],
+    [ "scope", "d8/d7d/struct_doc_parser_context.html#add383acd336f2e26ecf24c000f31a4e3", null ],
+    [ "searchUrl", "d8/d7d/struct_doc_parser_context.html#aa2bfd37ddbdec7e8751e6585cc53beb8", null ],
+    [ "sectionDict", "d8/d7d/struct_doc_parser_context.html#a0e457c01f7cfa2b60d7af671cbf6fc9c", null ],
+    [ "styleStack", "d8/d7d/struct_doc_parser_context.html#af6fc30c2dd0edcf5fede2f271316546c", null ],
+    [ "token", "d8/d7d/struct_doc_parser_context.html#a8da54182d40bdc81e85cd29db88230b6", null ],
+    [ "xmlComment", "d8/d7d/struct_doc_parser_context.html#a5b98ca02af34e324862e5b5b8bbfb207", null ]
+];

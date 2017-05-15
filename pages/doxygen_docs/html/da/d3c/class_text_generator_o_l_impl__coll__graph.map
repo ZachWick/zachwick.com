@@ -1,0 +1,6 @@
+<map id="TextGeneratorOLImpl" name="TextGeneratorOLImpl">
+<area shape="rect" id="node2" href="$d0/dcf/class_text_generator_intf.html" title="Abstract interface for a hyperlinked text fragment. " alt="" coords="5,157,129,184"/>
+<area shape="rect" id="node3" href="$d2/d1a/class_output_doc_interface.html" title="Interface used for generating documentation. " alt="" coords="153,157,289,184"/>
+<area shape="rect" id="node4" href="$df/d27/class_base_output_doc_interface.html" title="Base Interface used for generating output outside of the comment blocks. " alt="" coords="137,81,304,108"/>
+<area shape="rect" id="node5" href="$d5/d9c/class_code_output_interface.html" title="Output interface for code parser. " alt="" coords="149,5,292,32"/>
+</map>

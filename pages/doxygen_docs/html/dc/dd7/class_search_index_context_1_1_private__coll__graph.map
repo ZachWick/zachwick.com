@@ -1,0 +1,19 @@
+<map id="SearchIndexContext::Private" name="SearchIndexContext::Private">
+<area shape="rect" id="node2" href="$d1/d80/class_property_mapper.html" title="PropertyMapper\&lt; SearchIndex\lContext::Private \&gt;" alt="" coords="1477,79,1676,121"/>
+<area shape="rect" id="node3" href="$d1/d80/class_property_mapper.html" title="Helper class to map a property name to a handler member function. " alt="" coords="1127,87,1274,113"/>
+<area shape="rect" id="node4" href="$d0/dc5/struct_search_index_context_1_1_private_1_1_cachable.html" title="SearchIndexContext\l::Private::Cachable" alt="" coords="1506,145,1647,186"/>
+<area shape="rect" id="node5" href="$df/d12/class_shared_ptr.html" title="SharedPtr\&lt; SymbolIndices\lContext \&gt;" alt="" coords="1111,141,1290,182"/>
+<area shape="rect" id="node6" href="$d8/d39/class_symbol_indices_context.html" title="SymbolIndicesContext" alt="" coords="727,61,882,88"/>
+<area shape="rect" id="node7" href="$d8/d96/class_ref_counted_context.html" title="Helper class to support reference counting. " alt="" coords="393,5,532,32"/>
+<area shape="rect" id="node8" href="$d6/d88/class_template_list_intf.html" title="Abstract read&#45;only interface for a context value of type list. " alt="" coords="5,77,121,104"/>
+<area shape="rect" id="node10" href="$d6/dcb/class_generic_node_list_context.html" title="standard template list implementation " alt="" coords="171,108,336,135"/>
+<area shape="rect" id="node9" href="$d6/d8b/class_symbol_indices_context_1_1_private.html" title="SymbolIndicesContext\l::Private" alt="" coords="385,107,540,149"/>
+<area shape="rect" id="node11" href="$df/d12/class_shared_ptr.html" title="Reference counting smart pointer. " alt="" coords="749,148,861,175"/>
+<area shape="rect" id="node13" href="$d4/db6/struct_search_index_info.html" title="SearchIndexInfo" alt="" coords="1518,249,1635,276"/>
+<area shape="rect" id="node14" href="$d7/d17/class_letter_to_index_map.html" title="LetterToIndexMap\&lt; Search\lIndexList \&gt;" alt="" coords="1111,361,1291,402"/>
+<area shape="rect" id="node15" href="$d0/d9f/class_s_int_dict.html" title="SIntDict\&lt; SearchIndexList \&gt;" alt="" coords="711,337,899,364"/>
+<area shape="rect" id="node16" href="$d8/d9a/class_s_int_list.html" title="SIntList\&lt; SearchIndexList \&gt;" alt="" coords="1108,256,1293,283"/>
+<area shape="rect" id="node18" href="$d8/d9a/class_s_int_list.html" title="internal wrapper class that redirects compareValues() to the dictionary " alt="" coords="755,249,854,276"/>
+<area shape="rect" id="node20" href="$d0/d9f/class_s_int_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="411,363,514,389"/>
+<area shape="rect" id="node21" href="$d7/d17/class_letter_to_index_map.html" title="maps a unicode character code to a list of T::ElementType&#39;s " alt="" coords="725,395,884,421"/>
+</map>

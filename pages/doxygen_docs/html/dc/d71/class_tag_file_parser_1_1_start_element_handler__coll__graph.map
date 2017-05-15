@@ -1,0 +1,14 @@
+<map id="TagFileParser::StartElementHandler" name="TagFileParser::StartElementHandler">
+<area shape="rect" id="node2" href="$d3/d3a/class_tag_file_parser.html" title="Tag file parser. " alt="" coords="768,259,871,285"/>
+<area shape="rect" id="node4" href="$d3/ddb/class_tag_member_info.html" title="Container for member specific info that can be read from a tagfile. " alt="" coords="481,56,595,83"/>
+<area shape="rect" id="node5" href="$dc/d84/class_tag_anchor_info_list.html" title="List of TagAnchorInfo objects. " alt="" coords="217,233,345,260"/>
+<area shape="rect" id="node7" href="$d8/d0d/class_tag_dir_info.html" title="Container for directory specific info that can be read from a tagfile. " alt="" coords="497,107,579,133"/>
+<area shape="rect" id="node9" href="$d3/d48/class_tag_package_info.html" title="Container for package specific info that can be read from a tagfile. " alt="" coords="479,157,597,184"/>
+<area shape="rect" id="node10" href="$d7/d5c/class_tag_page_info.html" title="Container for page specific info that can be read from a tagfile. " alt="" coords="490,208,586,235"/>
+<area shape="rect" id="node11" href="$d3/d0c/class_tag_class_info.html" title="Container for class specific info that can be read from a tagfile. " alt="" coords="488,259,588,285"/>
+<area shape="rect" id="node12" href="$d5/dad/class_tag_namespace_info.html" title="Container for namespace specific info that can be read from a tagfile. " alt="" coords="470,309,606,336"/>
+<area shape="rect" id="node14" href="$d6/d52/class_tag_group_info.html" title="Container for group specific info that can be read from a tagfile. " alt="" coords="487,360,589,387"/>
+<area shape="rect" id="node15" href="$dc/dc1/class_tag_file_info.html" title="Container for file specific info that can be read from a tagfile. " alt="" coords="495,411,581,437"/>
+<area shape="rect" id="node8" href="$d1/db6/class_tag_include_info.html" title="Container for include info that can be read from a tagfile. " alt="" coords="484,461,592,488"/>
+<area shape="rect" id="node13" href="$dc/dd2/class_tag_enum_value_info.html" title="Container for enum values that are scoped within an enum. " alt="" coords="471,512,605,539"/>
+</map>

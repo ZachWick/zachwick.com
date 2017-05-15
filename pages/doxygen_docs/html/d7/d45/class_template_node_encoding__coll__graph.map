@@ -1,0 +1,7 @@
+<map id="TemplateNodeEncoding" name="TemplateNodeEncoding">
+<area shape="rect" id="node2" href="$d8/d78/class_template_node_creator.html" title="TemplateNodeCreator\l\&lt; TemplateNodeEncoding \&gt;" alt="" coords="55,171,241,212"/>
+<area shape="rect" id="node3" href="$d6/d53/class_template_node.html" title="Base class of all nodes in a template&#39;s AST. " alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node4" href="$d8/d78/class_template_node_creator.html" title="Helper class for creating template AST tag nodes and returning the template for a given node..." alt="" coords="57,81,239,108"/>
+<area shape="rect" id="node5" href="$df/daf/class_template_node_list.html" title="Class representing a list of AST nodes in a template. " alt="" coords="273,178,401,205"/>
+<area shape="rect" id="node7" href="$dc/dfa/class_expr_ast.html" title="Base class for all nodes in the abstract syntax tree of an expression. " alt="" coords="425,178,495,205"/>
+</map>

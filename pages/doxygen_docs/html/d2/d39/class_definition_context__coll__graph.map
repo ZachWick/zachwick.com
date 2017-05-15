@@ -1,0 +1,35 @@
+<map id="DefinitionContext&lt; T &gt;" name="DefinitionContext&lt; T &gt;">
+<area shape="rect" id="node2" href="$d5/dcc/class_definition.html" title="The common base class of all entity definitions found in the sources. " alt="" coords="1016,757,1093,784"/>
+<area shape="rect" id="node5" href="$d3/ddf/class_definition_impl.html" title="Private data associated with a Symbol Definition object. " alt="" coords="2167,617,2269,644"/>
+<area shape="rect" id="node14" href="$de/db0/class_file_def.html" title="A model of a file symbol. " alt="" coords="1685,537,1749,564"/>
+<area shape="rect" id="node28" href="$d4/dd4/class_dir_def.html" title="A model of a directory symbol. " alt="" coords="1373,593,1433,620"/>
+<area shape="rect" id="node3" href="$d9/d4a/class_definition_intf.html" title="Abstract interface for a Definition or DefinitionList. " alt="" coords="649,808,745,835"/>
+<area shape="rect" id="node4" href="$d1/d2f/struct_definition_1_1_cookie.html" title="Definition::Cookie" alt="" coords="634,757,761,784"/>
+<area shape="rect" id="node6" href="$de/d9a/class_section_dict.html" title="Unsorted dictionary of SectionInfo objects. " alt="" coords="1520,321,1611,348"/>
+<area shape="rect" id="node7" href="$d1/d50/class_s_dict.html" title="SDict\&lt; SectionInfo \&gt;" alt="" coords="982,200,1127,227"/>
+<area shape="rect" id="node8" href="$df/dce/class_s_list.html" title="SList\&lt; SectionInfo \&gt;" alt="" coords="1331,152,1474,179"/>
+<area shape="rect" id="node10" href="$df/dce/class_s_list.html" title="internal wrapper class that redirects compareValues() to the dictionary " alt="" coords="313,312,397,339"/>
+<area shape="rect" id="node17" href="$df/dce/class_s_list.html" title="SList\&lt; ClassDef \&gt;" alt="" coords="632,333,763,360"/>
+<area shape="rect" id="node20" href="$df/dce/class_s_list.html" title="SList\&lt; Definition \&gt;" alt="" coords="632,449,763,476"/>
+<area shape="rect" id="node35" href="$df/dce/class_s_list.html" title="SList\&lt; NamespaceDef \&gt;" alt="" coords="614,656,781,683"/>
+<area shape="rect" id="node39" href="$df/dce/class_s_list.html" title="SList\&lt; MemberDef \&gt;" alt="" coords="625,19,769,45"/>
+<area shape="rect" id="node26" href="$d8/d9a/class_s_int_list.html" title="internal wrapper class that redirects compareValues() to the dictionary " alt="" coords="305,621,404,648"/>
+<area shape="rect" id="node12" href="$d1/d50/class_s_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="654,220,741,247"/>
+<area shape="rect" id="node16" href="$d1/d50/class_s_dict.html" title="SDict\&lt; ClassDef \&gt;" alt="" coords="987,320,1122,347"/>
+<area shape="rect" id="node19" href="$d1/d50/class_s_dict.html" title="SDict\&lt; Definition \&gt;" alt="" coords="987,444,1122,471"/>
+<area shape="rect" id="node34" href="$d1/d50/class_s_dict.html" title="SDict\&lt; NamespaceDef \&gt;" alt="" coords="969,656,1140,683"/>
+<area shape="rect" id="node38" href="$d1/d50/class_s_dict.html" title="SDict\&lt; MemberDef \&gt;" alt="" coords="981,33,1128,60"/>
+<area shape="rect" id="node13" href="$db/dab/struct_body_info.html" title="Data associated with description found in the body. " alt="" coords="1948,537,2023,564"/>
+<area shape="rect" id="node15" href="$d9/d3d/class_class_s_dict.html" title="A sorted dictionary of ClassDef objects. " alt="" coords="1358,380,1447,407"/>
+<area shape="rect" id="node22" href="$dc/d1e/class_member_group_s_dict.html" title="A sorted dictionary of MemberGroup objects. " alt="" coords="808,536,945,563"/>
+<area shape="rect" id="node23" href="$d0/d9f/class_s_int_dict.html" title="SIntDict\&lt; MemberGroup \&gt;" alt="" coords="267,723,443,749"/>
+<area shape="rect" id="node24" href="$d8/d9a/class_s_int_list.html" title="SIntList\&lt; MemberGroup \&gt;" alt="" coords="611,707,784,733"/>
+<area shape="rect" id="node27" href="$d0/d9f/class_s_int_dict.html" title="Ordered dictionary of elements of type T. " alt="" coords="5,723,108,749"/>
+<area shape="rect" id="node29" href="$dc/d2a/class_dir_list.html" title="A list of directories. " alt="" coords="1025,605,1085,632"/>
+<area shape="rect" id="node31" href="$d0/d18/class_file_list.html" title="Class representing a list of FileDef objects. " alt="" coords="1023,555,1087,581"/>
+<area shape="rect" id="node33" href="$d4/d8d/class_namespace_s_dict.html" title="A sorted dictionary of NamespaceDef objects. " alt="" coords="1340,644,1465,671"/>
+<area shape="rect" id="node37" href="$d6/dd6/class_member_s_dict.html" title="A sorted dictionary of MemberDef objects. " alt="" coords="1808,119,1911,145"/>
+<area shape="rect" id="node41" href="$d3/d3b/class_group_list.html" title="A list of GroupDef objects. " alt="" coords="1946,588,2025,615"/>
+<area shape="rect" id="node43" href="$d7/dd5/struct_doc_info.html" title="Data associated with a detailed description. " alt="" coords="1951,647,2019,673"/>
+<area shape="rect" id="node44" href="$d0/da7/struct_brief_info.html" title="Data associated with a brief description. " alt="" coords="1950,697,2021,724"/>
+</map>

@@ -1,0 +1,35 @@
+digraph "SymbolGroupContext::Private"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="SymbolGroupContext\l::Private",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" s_inst" ,fontname="Helvetica"];
+  Node2 [label="PropertyMapper\< SymbolGroup\lContext::Private \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d80/class_property_mapper.html"];
+  Node3 -> Node2 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< SymbolGroupContext\l::Private \>" ,fontname="Helvetica"];
+  Node3 [label="PropertyMapper\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d80/class_property_mapper.html",tooltip="Helper class to map a property name to a handler member function. "];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_sdl" ,fontname="Helvetica"];
+  Node4 [label="SearchDefinitionList",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d03/class_search_definition_list.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="QList\< Definition \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_cache" ,fontname="Helvetica"];
+  Node6 [label="SymbolGroupContext\l::Private::Cachable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d97/struct_symbol_group_context_1_1_private_1_1_cachable.html"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" symbolList" ,fontname="Helvetica"];
+  Node7 [label="SharedPtr\< SymbolListContext \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d12/class_shared_ptr.html"];
+  Node8 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_ptr" ,fontname="Helvetica"];
+  Node8 [label="SymbolListContext",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d7d/class_symbol_list_context.html"];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="RefCountedContext",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d96/class_ref_counted_context.html",tooltip="Helper class to support reference counting. "];
+  Node10 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="TemplateListIntf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d88/class_template_list_intf.html",tooltip="Abstract read-only interface for a context value of type list. "];
+  Node11 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" p" ,fontname="Helvetica"];
+  Node11 [label="SymbolListContext::\lPrivate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d36/class_symbol_list_context_1_1_private.html"];
+  Node12 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="GenericNodeListContext",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dcb/class_generic_node_list_context.html",tooltip="standard template list implementation "];
+  Node10 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 -> Node7 [dir="back",color="orange",fontsize="10",style="dashed",label=" \< SymbolListContext \>" ,fontname="Helvetica"];
+  Node13 [label="SharedPtr\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d12/class_shared_ptr.html",tooltip="Reference counting smart pointer. "];
+  Node14 -> Node13 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_ptr" ,fontname="Helvetica"];
+  Node14 [label="T",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}
